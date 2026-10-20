@@ -1,0 +1,4 @@
+pandas
+# MySQL version only:
+pymysql
+python-dotenv

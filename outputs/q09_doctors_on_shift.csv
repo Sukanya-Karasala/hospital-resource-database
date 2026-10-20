@@ -1,0 +1,4 @@
+doctor_code,doctor_name,departments_and_roles,shift_start,shift_end,shift_hours
+D-00005,Noe Dibbert,General Surgery Department (Lead Surgeon); Cardiothoracic Surgery Department (Intern); Ophthalmology Department (Intern),14:15,17:15,3.0
+D-00006,Annette Legros,General Surgery Department (Intern); Cardiothoracic Surgery Department (Department Head),14:15,17:15,3.0
+D-00003,Samuel Predovic,General Surgery Department (Attending Surgeon); Vascular Surgery Department (Intern); Ophthalmology Department (Department Head); ENT Surgery Department (Resident Physician),15:30,16:00,0.5

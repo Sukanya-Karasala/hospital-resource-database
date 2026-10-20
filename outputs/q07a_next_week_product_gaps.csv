@@ -1,0 +1,9 @@
+operation_code,operation_date,department_name,product_name,lot_number,quantity_reserved,quantity_allocated,unfulfilled_qty,action_required
+OS-00110,2026-03-27,Orthopaedic Surgery Department,Quetiapine,LOT-260102-0545,26,19,7,PARTIAL - TOP UP REQUIRED
+OS-00110,2026-03-27,Orthopaedic Surgery Department,Varenicline,LOT-230408-0114,17,11,6,PARTIAL - TOP UP REQUIRED
+OS-00110,2026-03-27,Orthopaedic Surgery Department,BiteMD External Analgesic First Aid Antiseptic,LOT-250621-0655,14,11,3,PARTIAL - TOP UP REQUIRED
+OS-00110,2026-03-27,Orthopaedic Surgery Department,propofol,LOT-260202-0570,12,9,3,PARTIAL - TOP UP REQUIRED
+OS-00110,2026-03-27,Orthopaedic Surgery Department,Leader Cough Drops Vanilla Honey,LOT-260227-0528,4,3,1,PARTIAL - TOP UP REQUIRED
+GS-00206,2026-03-27,General Surgery Department,TRYNGOLZA,LOT-250927-0594,33,32,1,PARTIAL - TOP UP REQUIRED
+N-00146,2026-03-28,Neurosurgery Department,Amlodipine Besylate and Benazepril Hydrochloride,LOT-251101-0484,20,17,3,PARTIAL - TOP UP REQUIRED
+P&RS-00302,2026-03-28,Plastic & Reconstructive Surgery Department,Proper Protection Plus Primer NT,LOT-260121-0721,12,8,4,PARTIAL - TOP UP REQUIRED

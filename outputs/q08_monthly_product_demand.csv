@@ -1,0 +1,1070 @@
+op_month,product_name,operations_using_product,qty_reserved,qty_allocated,fulfilment_rate_pct,rolling_3m_avg_qty,change_vs_prev_month,demand_flag
+2026-09,100% Mineral Broad Spectrum Sunscreen SPF 30,1,8,5,62.5,8.0,,ABOVE AVERAGE
+2027-01,100% Mineral Broad Spectrum Sunscreen SPF 30,1,6,6,100.0,7.0,-2.0,NORMAL / BELOW
+2025-09,5 Elementum Delay Wipes,1,19,16,84.2,19.0,,NORMAL / BELOW
+2025-10,5 Elementum Delay Wipes,1,23,18,78.3,21.0,4.0,NORMAL / BELOW
+2026-04,5 Elementum Delay Wipes,2,36,29,80.6,26.0,13.0,ABOVE AVERAGE
+2026-12,ABREVA,1,4,3,75.0,4.0,,NORMAL / BELOW
+2026-11,ABSORBINE JR,1,9,8,88.9,9.0,,NORMAL / BELOW
+2027-02,ABSORBINE JR,1,12,11,91.7,10.5,3.0,ABOVE AVERAGE
+2026-09,ADVIL,1,20,17,85.0,20.0,,ABOVE AVERAGE
+2026-10,ADVIL,1,19,16,84.2,19.5,-1.0,NORMAL / BELOW
+2026-05,AGE20S SIGNATURE ESSENCE PACT INTENSE COVER 13C,1,10,10,100.0,10.0,,ABOVE AVERAGE
+2026-10,AGE20S SIGNATURE ESSENCE PACT INTENSE COVER 13C,1,9,7,77.8,9.5,-1.0,NORMAL / BELOW
+2026-06,AGNUS CASTUS,1,5,5,100.0,5.0,,NORMAL / BELOW
+2027-01,AGNUS CASTUS,1,5,3,60.0,5.0,0.0,NORMAL / BELOW
+2025-12,AMBROSIA ARTEMISIIFOLIA POLLEN,1,20,18,90.0,20.0,,ABOVE AVERAGE
+2026-01,AMBROSIA ARTEMISIIFOLIA POLLEN,1,14,13,92.9,17.0,-6.0,NORMAL / BELOW
+2025-04,Acamprosate Calcium,1,12,11,91.7,12.0,,ABOVE AVERAGE
+2026-08,Acamprosate Calcium,1,5,5,100.0,8.5,-7.0,NORMAL / BELOW
+2026-11,Acamprosate Calcium,1,6,4,66.7,7.7,1.0,NORMAL / BELOW
+2025-03,Acetaminophen Solution,1,26,25,96.2,26.0,,NORMAL / BELOW
+2026-03,Acetaminophen Solution,1,25,18,72.0,25.5,-1.0,NORMAL / BELOW
+2026-05,Acetaminophen Solution,1,26,19,73.1,25.7,1.0,NORMAL / BELOW
+2026-07,Acetaminophen Solution,1,32,31,96.9,27.7,6.0,ABOVE AVERAGE
+2026-09,Acetaminophen Solution,1,21,20,95.2,26.3,-11.0,NORMAL / BELOW
+2027-01,Acetaminophen Solution,1,32,28,87.5,28.3,11.0,ABOVE AVERAGE
+2025-03,Acetylcysteine,1,8,5,62.5,8.0,,NORMAL / BELOW
+2026-11,Acetylcysteine,1,11,10,90.9,9.5,3.0,ABOVE AVERAGE
+2026-11,Acid Reducer Plus Antacid,1,16,15,93.8,16.0,,NORMAL / BELOW
+2025-07,Acidum Fluoricum,1,17,15,88.2,17.0,,ABOVE AVERAGE
+2026-04,Acidum Fluoricum,1,16,11,68.8,16.5,-1.0,NORMAL / BELOW
+2025-10,Acne Control,1,18,15,83.3,18.0,,ABOVE AVERAGE
+2026-10,Acne Control,1,17,14,82.4,17.5,-1.0,NORMAL / BELOW
+2025-03,Agraphis nutans,1,4,4,100.0,4.0,,NORMAL / BELOW
+2026-04,Agraphis nutans,1,4,4,100.0,4.0,0.0,NORMAL / BELOW
+2026-07,Agraphis nutans,1,4,3,75.0,4.0,0.0,NORMAL / BELOW
+2026-09,Agraphis nutans,1,4,3,75.0,4.0,0.0,NORMAL / BELOW
+2025-06,All Acne Treatment,1,4,4,100.0,4.0,,NORMAL / BELOW
+2026-03,All Acne Treatment,1,4,2,50.0,4.0,0.0,NORMAL / BELOW
+2025-05,Allergy Maximum Strength,1,3,2,66.7,3.0,,NORMAL / BELOW
+2026-03,Allergy Maximum Strength,1,14,9,64.3,8.5,11.0,ABOVE AVERAGE
+2027-01,Allergy Maximum Strength,1,16,16,100.0,11.0,2.0,ABOVE AVERAGE
+2025-10,Allergy Plus Congestion Relief,1,34,23,67.6,34.0,,ABOVE AVERAGE
+2026-02,Allergy Plus Congestion Relief,1,37,37,100.0,35.5,3.0,ABOVE AVERAGE
+2026-04,Allergy Plus Congestion Relief,1,28,26,92.9,33.0,-9.0,NORMAL / BELOW
+2025-07,Allergy Relief,1,22,22,100.0,22.0,,ABOVE AVERAGE
+2026-09,Allergy Relief,2,18,12,66.7,20.0,-4.0,NORMAL / BELOW
+2026-01,Almay Roll-On For Sensitive Skin - Fragrance-Free,1,7,4,57.1,7.0,,ABOVE AVERAGE
+2026-04,Almay Roll-On For Sensitive Skin - Fragrance-Free,1,3,2,66.7,5.0,-4.0,NORMAL / BELOW
+2026-10,Almay Roll-On For Sensitive Skin - Fragrance-Free,1,4,3,75.0,4.7,1.0,NORMAL / BELOW
+2026-11,Almay Roll-On For Sensitive Skin - Fragrance-Free,1,5,4,80.0,4.0,1.0,ABOVE AVERAGE
+2025-03,Alprazolam,1,11,7,63.6,11.0,,ABOVE AVERAGE
+2026-02,Alprazolam,1,6,5,83.3,8.5,-5.0,NORMAL / BELOW
+2026-06,Alprazolam,1,4,4,100.0,7.0,-2.0,NORMAL / BELOW
+2026-12,Alprazolam,1,4,2,50.0,4.7,0.0,NORMAL / BELOW
+2027-01,Alprazolam,1,6,5,83.3,4.7,2.0,NORMAL / BELOW
+2026-10,Aluminium Carbonicum,1,5,4,80.0,5.0,,NORMAL / BELOW
+2026-10,Amantadine Hydrochloride,2,13,10,76.9,13.0,,NORMAL / BELOW
+2026-01,Amcinonide,1,22,22,100.0,22.0,,NORMAL / BELOW
+2027-01,Amcinonide,1,22,22,100.0,22.0,0.0,NORMAL / BELOW
+2026-06,Amcon Labs Hand Sanitizer Fragrance Free Gel Sanitizer,1,9,9,100.0,9.0,,NORMAL / BELOW
+2025-12,Amiodarone hydrochloride,1,16,11,68.8,16.0,,ABOVE AVERAGE
+2026-06,Amiodarone hydrochloride,1,13,11,84.6,14.5,-3.0,NORMAL / BELOW
+2026-07,Amiodarone hydrochloride,1,13,12,92.3,14.0,0.0,NORMAL / BELOW
+2026-07,Amitriptyline Hydrochloride,1,21,18,85.7,21.0,,NORMAL / BELOW
+2026-02,Amlodipine Besylate and Benazepril Hydrochloride,1,20,17,85.0,20.0,,ABOVE AVERAGE
+2026-03,Amlodipine Besylate and Benazepril Hydrochloride,1,20,17,85.0,20.0,0.0,ABOVE AVERAGE
+2026-05,Amlodipine Besylate and Benazepril Hydrochloride,1,17,11,64.7,19.0,-3.0,NORMAL / BELOW
+2026-09,Amlodipine Besylate and Benazepril Hydrochloride,1,17,11,64.7,18.0,0.0,NORMAL / BELOW
+2025-04,Amoxicillin,1,13,10,76.9,13.0,,NORMAL / BELOW
+2026-04,Amoxicillin,1,16,15,93.8,14.5,3.0,ABOVE AVERAGE
+2026-08,Amoxicillin,1,16,16,100.0,15.0,0.0,ABOVE AVERAGE
+2027-03,Amoxicillin,1,18,13,72.2,16.7,2.0,ABOVE AVERAGE
+2026-08,Ampicillin sodium,1,15,11,73.3,15.0,,NORMAL / BELOW
+2025-04,Anastrozole,1,6,5,83.3,6.0,,NORMAL / BELOW
+2026-04,Anastrozole,1,13,13,100.0,9.5,7.0,ABOVE AVERAGE
+2027-01,Anastrozole,1,16,16,100.0,11.7,3.0,ABOVE AVERAGE
+2025-12,Angeliq,1,12,11,91.7,12.0,,NORMAL / BELOW
+2025-06,Anti-BacterialHandSpray Sun Washed Citrus,1,10,9,90.0,10.0,,ABOVE AVERAGE
+2025-12,Anti-BacterialHandSpray Sun Washed Citrus,1,9,9,100.0,9.5,-1.0,ABOVE AVERAGE
+2026-02,Anti-BacterialHandSpray Sun Washed Citrus,1,4,3,75.0,7.7,-5.0,NORMAL / BELOW
+2026-01,Anticavity,1,27,25,92.6,27.0,,ABOVE AVERAGE
+2027-02,Anticavity,1,25,24,96.0,26.0,-2.0,NORMAL / BELOW
+2025-09,Antioxidant Mineral Sunscreen Plus Primer Lightly Tinted,1,7,7,100.0,7.0,,NORMAL / BELOW
+2025-10,Antiseptic Wipes,1,14,11,78.6,14.0,,ABOVE AVERAGE
+2026-11,Antiseptic Wipes,1,12,10,83.3,13.0,-2.0,NORMAL / BELOW
+2025-03,Argentum Nitricum,1,14,10,71.4,14.0,,NORMAL / BELOW
+2026-03,Argentum Nitricum,1,17,12,70.6,15.5,3.0,NORMAL / BELOW
+2026-07,Argentum Nitricum,1,22,15,68.2,17.7,5.0,ABOVE AVERAGE
+2027-01,Argentum Nitricum,1,15,10,66.7,18.0,-7.0,NORMAL / BELOW
+2025-04,Aripiprazole,1,44,43,97.7,44.0,,ABOVE AVERAGE
+2026-07,Aripiprazole,1,43,33,76.7,43.5,-1.0,NORMAL / BELOW
+2027-01,Arthcal Estriol Face Cream for Women,1,5,4,80.0,5.0,,NORMAL / BELOW
+2025-11,Arthritis Pain,1,7,5,71.4,7.0,,NORMAL / BELOW
+2026-11,Arthritis Pain,1,7,5,71.4,7.0,0.0,NORMAL / BELOW
+2027-01,Arthritis Pain,1,8,8,100.0,7.3,1.0,ABOVE AVERAGE
+2026-02,Arum maculatum,1,21,18,85.7,21.0,,NORMAL / BELOW
+2026-06,Arum maculatum,1,23,19,82.6,22.0,2.0,ABOVE AVERAGE
+2026-12,Arum maculatum,1,23,23,100.0,22.3,0.0,ABOVE AVERAGE
+2025-03,Aspirin,1,4,4,100.0,4.0,,NORMAL / BELOW
+2025-08,Aspirin,1,5,4,80.0,4.5,1.0,ABOVE AVERAGE
+2025-12,Aspirin,1,5,4,80.0,4.7,0.0,ABOVE AVERAGE
+2026-04,Aspirin,1,12,12,100.0,12.0,,NORMAL / BELOW
+2026-12,Atenolol,1,17,17,100.0,17.0,,NORMAL / BELOW
+2025-10,Athletes Foot,1,17,11,64.7,17.0,,NORMAL / BELOW
+2025-12,Athletes Foot,1,19,19,100.0,18.0,2.0,ABOVE AVERAGE
+2025-07,Atomoxetine,1,5,4,80.0,5.0,,ABOVE AVERAGE
+2025-10,Atomoxetine,1,7,6,85.7,6.0,2.0,ABOVE AVERAGE
+2026-08,Atomoxetine,1,3,3,100.0,5.0,-4.0,NORMAL / BELOW
+2026-10,Atomoxetine,1,4,3,75.0,4.7,1.0,NORMAL / BELOW
+2025-07,"B-Pure Hand Sanitizer Spray, Palm Sugar Pineapple Scented",1,3,3,100.0,3.0,,NORMAL / BELOW
+2026-04,BLACK PEPPER,1,12,10,83.3,12.0,,NORMAL / BELOW
+2026-05,BLACK PEPPER,2,21,17,81.0,16.5,9.0,ABOVE AVERAGE
+2026-10,BLACK PEPPER,1,12,10,83.3,15.0,-9.0,NORMAL / BELOW
+2026-07,Bacitracin,1,8,7,87.5,8.0,,NORMAL / BELOW
+2026-11,Bacitracin,1,8,5,62.5,8.0,0.0,NORMAL / BELOW
+2027-01,Bacitracin,1,8,7,87.5,8.0,0.0,NORMAL / BELOW
+2025-03,Baclofen,1,12,12,100.0,12.0,,NORMAL / BELOW
+2025-06,Baclofen,1,17,17,100.0,17.0,,ABOVE AVERAGE
+2025-09,Baclofen,1,16,16,100.0,16.5,-1.0,ABOVE AVERAGE
+2025-10,Baclofen,1,12,10,83.3,12.0,0.0,NORMAL / BELOW
+2025-11,Baclofen,1,14,13,92.9,12.7,2.0,ABOVE AVERAGE
+2026-04,Baclofen,1,17,17,100.0,16.7,1.0,ABOVE AVERAGE
+2026-08,Baclofen,1,18,18,100.0,17.0,1.0,ABOVE AVERAGE
+2026-09,Baclofen,1,11,11,100.0,15.3,-7.0,NORMAL / BELOW
+2026-12,Baclofen,1,18,16,88.9,15.7,7.0,ABOVE AVERAGE
+2027-02,Baclofen,1,8,6,75.0,12.3,-10.0,NORMAL / BELOW
+2025-11,Baryta Acetica,1,8,7,87.5,8.0,,ABOVE AVERAGE
+2026-12,Baryta Acetica,1,5,3,60.0,6.5,-3.0,NORMAL / BELOW
+2026-03,Baxdela,2,60,43,71.7,60.0,,ABOVE AVERAGE
+2026-04,Baxdela,1,27,21,77.8,43.5,-33.0,NORMAL / BELOW
+2026-12,Baxdela,1,22,15,68.2,36.3,-5.0,NORMAL / BELOW
+2027-01,Baxdela,1,26,20,76.9,25.0,4.0,NORMAL / BELOW
+2025-03,Belladonna and Opium,1,4,2,50.0,4.0,,NORMAL / BELOW
+2025-05,Belladonna and Opium,1,4,3,75.0,4.0,0.0,NORMAL / BELOW
+2026-02,Belladonna and Opium,1,4,4,100.0,4.0,0.0,NORMAL / BELOW
+2026-08,Benadryl Extra Strength Itch Cooling,1,14,14,100.0,14.0,,NORMAL / BELOW
+2025-10,Benzonatate,2,8,5,62.5,8.0,,ABOVE AVERAGE
+2026-08,Benzonatate,1,4,4,100.0,6.0,-4.0,NORMAL / BELOW
+2025-03,Bestmade Natural Products BM152,1,10,9,90.0,10.0,,NORMAL / BELOW
+2025-10,Bestmade Natural Products BM152,1,11,7,63.6,10.5,1.0,ABOVE AVERAGE
+2026-03,Bestmade Natural Products BM152,1,12,9,75.0,11.0,1.0,ABOVE AVERAGE
+2026-10,Bestmade Natural Products BM152,1,8,5,62.5,10.3,-4.0,NORMAL / BELOW
+2025-07,Bestmade Natural Products Field of Flowers Formula,1,11,8,72.7,11.0,,ABOVE AVERAGE
+2025-10,Bestmade Natural Products Field of Flowers Formula,1,7,7,100.0,9.0,-4.0,NORMAL / BELOW
+2025-12,Bestmade Natural Products Field of Flowers Formula,1,8,6,75.0,8.7,1.0,ABOVE AVERAGE
+2026-01,Bestmade Natural Products Field of Flowers Formula,1,8,5,62.5,7.7,0.0,ABOVE AVERAGE
+2026-05,Bestmade Natural Products Field of Flowers Formula,1,2,2,100.0,6.0,-6.0,NORMAL / BELOW
+2025-12,Bestmade Natural Products Instant Calm Formula,1,24,22,91.7,24.0,,ABOVE AVERAGE
+2026-04,Bestmade Natural Products Instant Calm Formula,1,20,14,70.0,22.0,-4.0,NORMAL / BELOW
+2026-01,Bio-Immune,1,16,15,93.8,16.0,,ABOVE AVERAGE
+2026-02,Bio-Immune,1,10,7,70.0,13.0,-6.0,NORMAL / BELOW
+2025-03,Bisacodyl,2,7,7,100.0,7.0,,ABOVE AVERAGE
+2026-02,Bisacodyl,1,5,4,80.0,6.0,-2.0,NORMAL / BELOW
+2026-07,Bisacodyl,1,5,4,80.0,5.7,0.0,NORMAL / BELOW
+2027-02,Bisacodyl,1,6,4,66.7,5.3,1.0,ABOVE AVERAGE
+2025-04,BiteMD External Analgesic First Aid Antiseptic,1,13,13,100.0,13.0,,ABOVE AVERAGE
+2025-06,BiteMD External Analgesic First Aid Antiseptic,1,11,8,72.7,12.0,-2.0,NORMAL / BELOW
+2026-03,BiteMD External Analgesic First Aid Antiseptic,1,14,11,78.6,12.7,3.0,ABOVE AVERAGE
+2026-05,BiteMD External Analgesic First Aid Antiseptic,1,13,11,84.6,12.7,-1.0,ABOVE AVERAGE
+2025-08,Black Walnut Pollen,1,19,18,94.7,19.0,,NORMAL / BELOW
+2026-09,Blackberry Smoothie SPF 15 Broad Spectrum Lip Balm,2,16,16,100.0,16.0,,ABOVE AVERAGE
+2026-12,Blackberry Smoothie SPF 15 Broad Spectrum Lip Balm,2,17,15,88.2,16.5,1.0,ABOVE AVERAGE
+2027-01,Blackberry Smoothie SPF 15 Broad Spectrum Lip Balm,1,7,6,85.7,13.3,-10.0,NORMAL / BELOW
+2025-07,Bondi Sands SPF 60 Sunny Kiss Lip Balm Coconut Crush,1,13,12,92.3,13.0,,ABOVE AVERAGE
+2026-12,Bondi Sands SPF 60 Sunny Kiss Lip Balm Coconut Crush,1,9,9,100.0,11.0,-4.0,NORMAL / BELOW
+2026-08,Boudreauxs,1,14,12,85.7,14.0,,NORMAL / BELOW
+2026-09,Boudreauxs,2,24,16,66.7,19.0,10.0,ABOVE AVERAGE
+2025-05,Breezers Creamy Strawberry,1,20,15,75.0,20.0,,ABOVE AVERAGE
+2026-07,Breezers Creamy Strawberry,1,17,17,100.0,18.5,-3.0,NORMAL / BELOW
+2025-08,Brimonidine tartrate,1,7,4,57.1,7.0,,NORMAL / BELOW
+2026-04,Brimonidine tartrate,2,15,12,80.0,11.0,8.0,ABOVE AVERAGE
+2026-10,Brimonidine tartrate,1,9,9,100.0,10.3,-6.0,NORMAL / BELOW
+2025-04,Bromocriptine mesylate,1,11,10,90.9,11.0,,NORMAL / BELOW
+2025-07,Brush Buddies Crayola ANTICAVITY FLUORIDE - WATERMELON FLAVOR,1,17,15,88.2,17.0,,NORMAL / BELOW
+2025-09,Brush Buddies Crayola ANTICAVITY FLUORIDE - WATERMELON FLAVOR,1,17,14,82.4,17.0,0.0,NORMAL / BELOW
+2026-05,Brush Buddies Crayola ANTICAVITY FLUORIDE - WATERMELON FLAVOR,1,17,17,100.0,17.0,0.0,NORMAL / BELOW
+2025-03,Bumetanide,1,8,7,87.5,8.0,,NORMAL / BELOW
+2026-06,Bumetanide,1,7,6,85.7,7.5,-1.0,NORMAL / BELOW
+2026-11,Bumetanide,1,9,9,100.0,8.0,2.0,ABOVE AVERAGE
+2026-05,Bupropion Hydrochloride SR,1,4,2,50.0,4.0,,NORMAL / BELOW
+2026-11,Bupropion Hydrochloride SR,1,5,3,60.0,4.5,1.0,ABOVE AVERAGE
+2027-01,Bupropion Hydrochloride SR,1,5,4,80.0,4.7,0.0,ABOVE AVERAGE
+2025-06,Buspirone hydrochloride,1,13,12,92.3,13.0,,NORMAL / BELOW
+2026-04,Buspirone hydrochloride,1,16,15,93.8,14.5,3.0,ABOVE AVERAGE
+2026-12,Buspirone hydrochloride,1,18,13,72.2,15.7,2.0,ABOVE AVERAGE
+2025-04,CARBIDOPA AND LEVODOPA,1,11,7,63.6,11.0,,ABOVE AVERAGE
+2025-07,CARBIDOPA AND LEVODOPA,1,8,6,75.0,9.5,-3.0,NORMAL / BELOW
+2026-03,CARBIDOPA AND LEVODOPA,1,12,9,75.0,10.3,4.0,ABOVE AVERAGE
+2026-05,CARBIDOPA AND LEVODOPA,1,11,8,72.7,10.3,-1.0,ABOVE AVERAGE
+2026-01,CARDENE IV,1,3,2,66.7,3.0,,NORMAL / BELOW
+2026-02,CARDENE IV,1,16,15,93.8,9.5,13.0,ABOVE AVERAGE
+2026-05,CARDENE IV,1,12,11,91.7,10.3,-4.0,NORMAL / BELOW
+2026-08,CARDENE IV,1,19,15,78.9,15.7,7.0,ABOVE AVERAGE
+2026-10,CARDENE IV,1,16,15,93.8,15.7,-3.0,ABOVE AVERAGE
+2026-05,CLE DE PEAU BEAUTE RADIANT CORRECTOR FOR EYES IVORY,1,5,3,60.0,5.0,,ABOVE AVERAGE
+2026-09,CLE DE PEAU BEAUTE RADIANT CORRECTOR FOR EYES IVORY,1,4,4,100.0,4.5,-1.0,NORMAL / BELOW
+2025-04,CLOFARABINE,2,32,27,84.4,32.0,,ABOVE AVERAGE
+2025-05,CLOFARABINE,1,17,13,76.5,24.5,-15.0,NORMAL / BELOW
+2026-07,CLOFARABINE,1,14,12,85.7,21.0,-3.0,NORMAL / BELOW
+2025-09,COSOPT,1,18,14,77.8,18.0,,NORMAL / BELOW
+2026-06,COSOPT,1,23,17,73.9,20.5,5.0,ABOVE AVERAGE
+2025-03,Celecoxib,1,15,13,86.7,15.0,,ABOVE AVERAGE
+2025-07,Celecoxib,1,10,7,70.0,12.5,-5.0,NORMAL / BELOW
+2027-01,Celecoxib,1,10,8,80.0,11.7,0.0,NORMAL / BELOW
+2027-02,Celecoxib,1,10,9,90.0,10.0,0.0,NORMAL / BELOW
+2025-11,Cephalexin,1,11,11,100.0,11.0,,NORMAL / BELOW
+2026-05,Cephalexin,1,15,12,80.0,13.0,4.0,ABOVE AVERAGE
+2026-09,Cephalexin,1,15,12,80.0,13.7,0.0,ABOVE AVERAGE
+2025-05,Cetirizine Hydrochloride,1,24,23,95.8,24.0,,ABOVE AVERAGE
+2025-05,Cetirizine Hydrochloride,1,13,10,76.9,13.0,,NORMAL / BELOW
+2025-07,Cetirizine Hydrochloride,1,29,21,72.4,26.5,5.0,ABOVE AVERAGE
+2026-01,Cetirizine Hydrochloride,1,15,15,100.0,14.0,2.0,ABOVE AVERAGE
+2026-03,Cetirizine Hydrochloride,1,8,8,100.0,20.3,-21.0,NORMAL / BELOW
+2026-03,Cetirizine Hydrochloride,1,9,8,88.9,9.0,,NORMAL / BELOW
+2026-11,Cetirizine Hydrochloride,1,7,6,85.7,14.7,-1.0,NORMAL / BELOW
+2027-01,Cetirizine Hydrochloride,1,14,9,64.3,14.0,-1.0,NORMAL / BELOW
+2025-03,Cetirizine Hydrochloride (Hives Relief),1,13,13,100.0,13.0,,NORMAL / BELOW
+2026-05,Cevimeline Hydrochloride,1,4,3,75.0,4.0,,NORMAL / BELOW
+2026-10,Cevimeline Hydrochloride,1,4,4,100.0,4.0,0.0,NORMAL / BELOW
+2026-04,Childrens Allergy,1,13,13,100.0,13.0,,NORMAL / BELOW
+2026-07,Childrens Allergy,1,16,15,93.8,14.5,3.0,ABOVE AVERAGE
+2026-02,Chimera GUARD,1,16,12,75.0,16.0,,ABOVE AVERAGE
+2026-03,Chimera GUARD,1,20,16,80.0,18.0,4.0,ABOVE AVERAGE
+2026-06,Chimera GUARD,1,18,15,83.3,18.0,-2.0,ABOVE AVERAGE
+2026-11,Chimera GUARD,1,9,6,66.7,15.7,-9.0,NORMAL / BELOW
+2027-02,Chromium Oxydatum,1,17,16,94.1,17.0,,NORMAL / BELOW
+2026-02,Citalopram,1,32,29,90.6,32.0,,NORMAL / BELOW
+2026-08,Citalopram,1,36,26,72.2,34.0,4.0,ABOVE AVERAGE
+2025-10,Clarithromycin,1,9,8,88.9,9.0,,NORMAL / BELOW
+2025-11,Clarithromycin,1,10,10,100.0,9.5,1.0,NORMAL / BELOW
+2027-01,Clarithromycin,2,22,17,77.3,13.7,12.0,ABOVE AVERAGE
+2025-04,Classic Mint Flavor Sodium Fluoride Anticavity Toothpast,1,22,17,77.3,22.0,,ABOVE AVERAGE
+2026-06,Classic Mint Flavor Sodium Fluoride Anticavity Toothpast,1,13,12,92.3,17.5,-9.0,NORMAL / BELOW
+2026-07,Classic Mint Flavor Sodium Fluoride Anticavity Toothpast,1,13,13,100.0,16.0,0.0,NORMAL / BELOW
+2026-04,Cleanse,1,12,8,66.7,12.0,,NORMAL / BELOW
+2027-01,Cleanse,1,15,15,100.0,13.5,3.0,ABOVE AVERAGE
+2026-09,Cleviprex,1,13,10,76.9,13.0,,ABOVE AVERAGE
+2027-02,Cleviprex,1,10,7,70.0,11.5,-3.0,NORMAL / BELOW
+2026-01,Clindamycin Hydrochloride,2,17,14,82.4,17.0,,NORMAL / BELOW
+2026-06,Clobetasol Propionate (emollient),1,15,14,93.3,15.0,,NORMAL / BELOW
+2027-01,Clonidine hydrochloride,1,10,9,90.0,10.0,,NORMAL / BELOW
+2025-07,Clopidogrel bisulfate,1,15,15,100.0,15.0,,NORMAL / BELOW
+2026-05,Clopidogrel bisulfate,1,20,17,85.0,17.5,5.0,ABOVE AVERAGE
+2026-09,Clopidogrel bisulfate,1,19,19,100.0,18.0,-1.0,ABOVE AVERAGE
+2026-02,Clotrimazole 1%,1,15,12,80.0,15.0,,NORMAL / BELOW
+2026-06,Clotrimazole 1%,1,16,12,75.0,15.5,1.0,ABOVE AVERAGE
+2026-01,Coldcalm,1,15,13,86.7,15.0,,ABOVE AVERAGE
+2026-12,Coldcalm,1,11,8,72.7,13.0,-4.0,NORMAL / BELOW
+2027-01,Coldcalm,1,11,10,90.9,12.3,0.0,NORMAL / BELOW
+2026-04,Colesevelam,1,10,7,70.0,10.0,,NORMAL / BELOW
+2025-09,Colesevelam HCL,1,5,4,80.0,5.0,,NORMAL / BELOW
+2027-01,Colesevelam HCL,1,6,6,100.0,5.5,1.0,ABOVE AVERAGE
+2027-02,Colesevelam HCL,1,18,12,66.7,18.0,,NORMAL / BELOW
+2026-02,Colgate Optic White Advanced Sparkling White,1,12,8,66.7,12.0,,ABOVE AVERAGE
+2026-04,Colgate Optic White Advanced Sparkling White,1,10,7,70.0,11.0,-2.0,NORMAL / BELOW
+2026-01,Colibacillinum,1,11,11,100.0,11.0,,NORMAL / BELOW
+2025-11,Cough DM,1,15,13,86.7,15.0,,NORMAL / BELOW
+2026-12,Cough Drops,1,14,9,64.3,14.0,,NORMAL / BELOW
+2026-08,Cresolum,1,5,3,60.0,5.0,,NORMAL / BELOW
+2026-04,Cuprum Metallicum,1,13,9,69.2,13.0,,NORMAL / BELOW
+2026-06,Cuprum Metallicum,1,15,10,66.7,14.0,2.0,ABOVE AVERAGE
+2026-11,Cuprum Metallicum,1,11,7,63.6,13.0,-4.0,NORMAL / BELOW
+2025-10,Cureforte Anti Fungal Foot Care,1,16,11,68.8,16.0,,NORMAL / BELOW
+2026-02,Cyclophosphamide,1,13,13,100.0,13.0,,NORMAL / BELOW
+2025-04,DENTI BUONGIORNO PEACH MINT WHITENING TOOTH,1,9,7,77.8,9.0,,ABOVE AVERAGE
+2027-02,DENTI BUONGIORNO PEACH MINT WHITENING TOOTH,1,8,7,87.5,8.5,-1.0,NORMAL / BELOW
+2025-09,DEXTROAMPHETAMINE SULFATE,1,11,9,81.8,11.0,,ABOVE AVERAGE
+2026-11,DEXTROAMPHETAMINE SULFATE,1,4,3,75.0,7.5,-7.0,NORMAL / BELOW
+2025-03,DIMETHYL FUMARATE,1,8,6,75.0,8.0,,NORMAL / BELOW
+2026-01,DIMETHYL FUMARATE,1,9,9,100.0,8.5,1.0,ABOVE AVERAGE
+2025-04,DON Antibacterial Plum Foam Handwash,1,11,10,90.9,11.0,,NORMAL / BELOW
+2025-07,DON Antibacterial Plum Foam Handwash,2,24,19,79.2,17.5,13.0,ABOVE AVERAGE
+2026-04,DON Antibacterial Plum Foam Handwash,1,6,5,83.3,13.7,-18.0,NORMAL / BELOW
+2026-09,DON Antibacterial Plum Foam Handwash,1,6,6,100.0,12.0,0.0,NORMAL / BELOW
+2027-02,DORZOLAMIDE HYDROCHLORIDE TIMOLOL MALEATE,1,4,4,100.0,4.0,,NORMAL / BELOW
+2025-05,DZUL ANTI-DANDRUFF,1,4,3,75.0,4.0,,NORMAL / BELOW
+2026-03,DZUL ANTI-DANDRUFF,1,6,4,66.7,5.0,2.0,ABOVE AVERAGE
+2026-08,DZUL ANTI-DANDRUFF,1,5,3,60.0,5.0,-1.0,NORMAL / BELOW
+2025-07,Daily Protect Tinted Mineral Sunscreen,1,7,6,85.7,7.0,,NORMAL / BELOW
+2025-09,Daily Protect Tinted Mineral Sunscreen,1,9,9,100.0,8.0,2.0,ABOVE AVERAGE
+2025-10,Danahan Moisture Daily Sunscreen Broad Spectrum SPF 50,1,19,17,89.5,19.0,,ABOVE AVERAGE
+2025-11,Danahan Moisture Daily Sunscreen Broad Spectrum SPF 50,1,14,9,64.3,16.5,-5.0,NORMAL / BELOW
+2025-06,Dapsone,1,17,15,88.2,17.0,,NORMAL / BELOW
+2026-05,Desipramine Hydrochloride,1,12,10,83.3,12.0,,NORMAL / BELOW
+2026-09,Dexmedetomidine Hydrochloride,1,15,12,80.0,15.0,,NORMAL / BELOW
+2025-08,Dextroamphetamine Sulfate,1,8,6,75.0,8.0,,NORMAL / BELOW
+2025-12,Dextroamphetamine Sulfate,1,9,8,88.9,8.5,1.0,ABOVE AVERAGE
+2026-04,Dextroamphetamine Sulfate,1,9,9,100.0,8.7,0.0,ABOVE AVERAGE
+2025-11,Dextrose,1,3,2,66.7,3.0,,NORMAL / BELOW
+2026-08,Dextrose,1,9,7,77.8,6.0,6.0,NORMAL / BELOW
+2026-10,Dextrose,1,8,8,100.0,6.7,-1.0,NORMAL / BELOW
+2026-12,Dextrose,2,19,15,78.9,12.0,11.0,ABOVE AVERAGE
+2025-05,Dicyclomine Hydrochloride,1,21,14,66.7,21.0,,ABOVE AVERAGE
+2026-02,Dicyclomine Hydrochloride,1,5,4,80.0,13.0,-16.0,NORMAL / BELOW
+2026-08,Dicyclomine Hydrochloride,1,4,2,50.0,10.0,-1.0,NORMAL / BELOW
+2025-11,DigiClean E,1,25,17,68.0,25.0,,NORMAL / BELOW
+2025-07,Diltiazem hydrochloride,1,15,13,86.7,15.0,,NORMAL / BELOW
+2026-03,Diltiazem hydrochloride,1,15,14,93.3,15.0,0.0,NORMAL / BELOW
+2026-01,Diphenhydramine Hydrochloride,1,17,14,82.4,17.0,,NORMAL / BELOW
+2026-05,Diphenhydramine Hydrochloride,1,23,18,78.3,20.0,6.0,ABOVE AVERAGE
+2026-11,Dizziness HP,1,5,5,100.0,5.0,,NORMAL / BELOW
+2025-08,Dolce and Gabbana Everlast Foundation SPF 20 29W Medium Deep,1,13,9,69.2,13.0,,NORMAL / BELOW
+2025-11,Dolce and Gabbana Everlast Foundation SPF 20 29W Medium Deep,1,17,17,100.0,15.0,4.0,ABOVE AVERAGE
+2026-04,Dolce and Gabbana Everlast Foundation SPF 20 31N Medium Deep,1,3,3,100.0,3.0,,NORMAL / BELOW
+2026-11,Dolce and Gabbana Everlast Foundation SPF 20 31N Medium Deep,2,9,8,88.9,6.0,6.0,ABOVE AVERAGE
+2026-12,Dolce and Gabbana Everlast Foundation SPF 20 31N Medium Deep,1,3,2,66.7,5.0,-6.0,NORMAL / BELOW
+2027-01,Dolce and Gabbana Everlast Foundation SPF 20 31N Medium Deep,1,4,2,50.0,5.3,1.0,NORMAL / BELOW
+2025-05,Doxazosin,1,20,20,100.0,20.0,,NORMAL / BELOW
+2026-04,Doxazosin,1,28,27,96.4,24.0,8.0,ABOVE AVERAGE
+2025-05,Doxepin Hydrochloride,1,5,5,100.0,5.0,,ABOVE AVERAGE
+2026-04,Doxepin Hydrochloride,1,5,3,60.0,5.0,0.0,ABOVE AVERAGE
+2026-07,Doxepin Hydrochloride,1,4,4,100.0,4.7,-1.0,NORMAL / BELOW
+2025-03,Duloxetine,1,13,13,100.0,13.0,,NORMAL / BELOW
+2026-04,Duloxetine,1,17,16,94.1,15.0,4.0,ABOVE AVERAGE
+2026-05,Duloxetine,1,14,11,78.6,14.7,-3.0,NORMAL / BELOW
+2026-06,Dutasteride,1,27,26,96.3,27.0,,ABOVE AVERAGE
+2026-08,Dutasteride,1,28,19,67.9,27.5,1.0,ABOVE AVERAGE
+2027-03,Dutasteride,1,22,21,95.5,25.7,-6.0,NORMAL / BELOW
+2025-11,EMSAM,1,24,18,75.0,24.0,,NORMAL / BELOW
+2026-02,EMSAM,1,27,24,88.9,25.5,3.0,ABOVE AVERAGE
+2026-10,EMSAM,1,26,20,76.9,25.7,-1.0,ABOVE AVERAGE
+2026-04,ENALAPRIL MALEATE,1,9,8,88.9,9.0,,ABOVE AVERAGE
+2026-07,ENALAPRIL MALEATE,1,8,8,100.0,8.5,-1.0,NORMAL / BELOW
+2027-01,ENALAPRIL MALEATE,1,8,5,62.5,8.3,0.0,NORMAL / BELOW
+2027-02,"Efavirenz, emtricitabine and tenofovir disoproxil fumarate",1,9,9,100.0,9.0,,NORMAL / BELOW
+2025-11,Erythromycin,1,17,13,76.5,17.0,,ABOVE AVERAGE
+2026-01,Erythromycin,1,13,13,100.0,15.0,-4.0,NORMAL / BELOW
+2026-05,Erythromycin,1,11,10,90.9,13.7,-2.0,NORMAL / BELOW
+2026-07,Erythromycin,1,12,12,100.0,12.0,1.0,NORMAL / BELOW
+2026-11,Erythromycin,1,17,13,76.5,13.3,5.0,ABOVE AVERAGE
+2027-02,Esomeprazole Magnesium,1,21,16,76.2,21.0,,NORMAL / BELOW
+2025-11,Eszopiclone,1,8,7,87.5,8.0,,ABOVE AVERAGE
+2026-12,Eszopiclone,1,7,6,85.7,7.5,-1.0,NORMAL / BELOW
+2026-12,Etodolac,1,7,6,85.7,7.0,,NORMAL / BELOW
+2025-04,Eucerin Radiant Tone,1,19,16,84.2,19.0,,ABOVE AVERAGE
+2026-02,Eucerin Radiant Tone,1,7,6,85.7,13.0,-12.0,NORMAL / BELOW
+2025-07,Everolimus,1,14,14,100.0,14.0,,NORMAL / BELOW
+2026-07,Everolimus,1,15,11,73.3,14.5,1.0,NORMAL / BELOW
+2026-08,Everolimus,1,15,15,100.0,14.7,0.0,NORMAL / BELOW
+2026-10,Everolimus,1,17,12,70.6,15.7,2.0,ABOVE AVERAGE
+2026-02,Excedrin Extra Strength Pain Reliever,1,14,11,78.6,14.0,,NORMAL / BELOW
+2026-01,Exelon,1,11,9,81.8,11.0,,NORMAL / BELOW
+2026-04,F09 LTGO,2,35,33,94.3,35.0,,NORMAL / BELOW
+2026-04,FLUORESCEIN,1,18,15,83.3,18.0,,ABOVE AVERAGE
+2026-07,FLUORESCEIN,1,14,9,64.3,16.0,-4.0,NORMAL / BELOW
+2027-02,FLUORESCEIN,1,20,16,80.0,17.3,6.0,ABOVE AVERAGE
+2025-10,FORANE,1,6,5,83.3,6.0,,ABOVE AVERAGE
+2027-01,FORANE,1,5,4,80.0,5.5,-1.0,NORMAL / BELOW
+2026-08,FOREVER SKIN GLOW 24h wear radiant foundation Perfection and hydration Concentrated floral skincare ,1,19,18,94.7,19.0,,NORMAL / BELOW
+2027-01,FOREVER SKIN GLOW 24h wear radiant foundation Perfection and hydration Concentrated floral skincare ,1,21,20,95.2,20.0,2.0,ABOVE AVERAGE
+2025-05,Fear,1,15,15,100.0,15.0,,ABOVE AVERAGE
+2026-07,Fear,1,6,4,66.7,10.5,-9.0,NORMAL / BELOW
+2026-08,Fear,1,9,7,77.8,10.0,3.0,NORMAL / BELOW
+2026-06,Ferrum picricum,1,9,9,100.0,9.0,,ABOVE AVERAGE
+2026-12,Ferrum picricum,1,10,7,70.0,9.5,1.0,ABOVE AVERAGE
+2027-02,Ferrum picricum,1,7,7,100.0,8.7,-3.0,NORMAL / BELOW
+2025-03,First Aid Beauty FAB Ultra Repair Intense Hydration Skin Protectant White Tea and Apricot,1,6,5,83.3,6.0,,NORMAL / BELOW
+2025-08,First Aid Beauty FAB Ultra Repair Intense Hydration Skin Protectant White Tea and Apricot,1,8,5,62.5,7.0,2.0,NORMAL / BELOW
+2025-12,First Aid Beauty FAB Ultra Repair Intense Hydration Skin Protectant White Tea and Apricot,1,9,9,100.0,7.7,1.0,NORMAL / BELOW
+2026-04,First Aid Beauty FAB Ultra Repair Intense Hydration Skin Protectant White Tea and Apricot,1,15,13,86.7,10.7,6.0,ABOVE AVERAGE
+2026-07,First Aid Beauty FAB Ultra Repair Intense Hydration Skin Protectant White Tea and Apricot,1,16,11,68.8,13.3,1.0,ABOVE AVERAGE
+2026-12,First Aid Beauty FAB Ultra Repair Intense Hydration Skin Protectant White Tea and Apricot,1,17,12,70.6,16.0,1.0,ABOVE AVERAGE
+2025-04,Foeniculum Vulgare,1,17,12,70.6,17.0,,ABOVE AVERAGE
+2026-04,Foeniculum Vulgare,1,12,8,66.7,14.5,-5.0,NORMAL / BELOW
+2026-11,Foeniculum Vulgare,1,17,16,94.1,15.3,5.0,ABOVE AVERAGE
+2026-11,"Food - Plant Source, Cashew Nut Anacardium occidentalie",1,3,3,100.0,3.0,,NORMAL / BELOW
+2026-12,"Food - Plant Source, Cashew Nut Anacardium occidentalie",1,3,3,100.0,3.0,0.0,NORMAL / BELOW
+2027-01,"Food - Plant Source, Cashew Nut Anacardium occidentalie",1,3,2,66.7,3.0,0.0,NORMAL / BELOW
+2025-08,Foot Scrub,1,17,13,76.5,17.0,,NORMAL / BELOW
+2025-11,Foot Scrub,1,24,19,79.2,20.5,7.0,ABOVE AVERAGE
+2026-06,Foot Scrub,1,22,20,90.9,21.0,-2.0,ABOVE AVERAGE
+2025-08,Foster and Thrive Childrens Allergy Relief,1,17,15,88.2,17.0,,NORMAL / BELOW
+2025-03,Fruit of the Earth Sun Town City SPF 30 Sunscreen,1,8,7,87.5,8.0,,NORMAL / BELOW
+2026-04,Fruit of the Earth Sun Town City SPF 30 Sunscreen,1,24,17,70.8,16.0,16.0,ABOVE AVERAGE
+2025-06,Fumaria officinalis,1,6,6,100.0,6.0,,NORMAL / BELOW
+2025-07,Fumaria officinalis,1,8,6,75.0,7.0,2.0,ABOVE AVERAGE
+2026-08,Fumaria officinalis,1,6,5,83.3,6.7,-2.0,NORMAL / BELOW
+2027-02,Fumaria officinalis,1,4,3,75.0,6.0,-2.0,NORMAL / BELOW
+2025-04,Furosemide,1,5,5,100.0,5.0,,ABOVE AVERAGE
+2025-08,Furosemide,1,3,3,100.0,4.0,-2.0,NORMAL / BELOW
+2026-06,GOLDEN ROSE GLOW KISS TINTED LIP BALM BERRY PINK,1,21,20,95.2,21.0,,NORMAL / BELOW
+2026-01,GR LIP BUTTER RASPBERRY SPF 15,1,27,21,77.8,27.0,,ABOVE AVERAGE
+2026-10,GR LIP BUTTER RASPBERRY SPF 15,1,18,15,83.3,22.5,-9.0,NORMAL / BELOW
+2026-12,GR LIP BUTTER RASPBERRY SPF 15,1,26,18,69.2,23.7,8.0,ABOVE AVERAGE
+2027-01,GR LIP BUTTER RASPBERRY SPF 15,1,28,27,96.4,24.0,2.0,ABOVE AVERAGE
+2025-08,GUANFACINE,1,18,13,72.2,18.0,,ABOVE AVERAGE
+2026-05,GUANFACINE,1,12,10,83.3,15.0,-6.0,NORMAL / BELOW
+2026-10,GUANFACINE,1,10,9,90.0,13.3,-2.0,NORMAL / BELOW
+2027-03,GUANFACINE,1,10,7,70.0,10.7,0.0,NORMAL / BELOW
+2026-08,Gabapentin,1,14,12,85.7,14.0,,NORMAL / BELOW
+2026-12,Gabapentin,1,17,16,94.1,15.5,3.0,ABOVE AVERAGE
+2027-01,Gabapentin,1,17,14,82.4,16.0,0.0,ABOVE AVERAGE
+2026-11,Gadolinium Metallicum,1,15,15,100.0,15.0,,NORMAL / BELOW
+2025-11,German Cockroach,1,16,13,81.3,16.0,,NORMAL / BELOW
+2026-05,German Cockroach,1,17,15,88.2,16.5,1.0,ABOVE AVERAGE
+2025-09,Glipizide,1,10,7,70.0,10.0,,ABOVE AVERAGE
+2026-05,Glipizide,1,5,3,60.0,7.5,-5.0,NORMAL / BELOW
+2026-07,Glipizide,1,4,4,100.0,6.3,-1.0,NORMAL / BELOW
+2026-11,Glipizide,1,3,2,66.7,4.0,-1.0,NORMAL / BELOW
+2027-03,Glipizide,1,4,4,100.0,3.7,1.0,NORMAL / BELOW
+2026-03,Glow Shield,1,9,7,77.8,9.0,,NORMAL / BELOW
+2026-09,Glow Shield,1,12,10,83.3,10.5,3.0,ABOVE AVERAGE
+2026-10,Glow Shield,1,8,8,100.0,9.7,-4.0,NORMAL / BELOW
+2025-10,Glyburide,1,12,11,91.7,12.0,,NORMAL / BELOW
+2026-03,Glyburide,1,11,10,90.9,11.5,-1.0,NORMAL / BELOW
+2026-11,Glyburide,1,14,13,92.9,12.3,3.0,ABOVE AVERAGE
+2025-09,Glycopyrrolate,1,19,15,78.9,19.0,,NORMAL / BELOW
+2025-12,Glycopyrrolate,1,20,18,90.0,20.0,,ABOVE AVERAGE
+2026-03,Glycopyrrolate,1,22,16,72.7,20.5,3.0,ABOVE AVERAGE
+2026-04,Glycopyrrolate,1,4,3,75.0,4.0,,NORMAL / BELOW
+2026-04,Glycopyrrolate,1,14,12,85.7,17.0,-6.0,NORMAL / BELOW
+2025-04,Golden Remedy Pain Relief Balm,1,13,11,84.6,13.0,,NORMAL / BELOW
+2025-05,Golden Remedy Pain Relief Balm,1,13,9,69.2,13.0,0.0,NORMAL / BELOW
+2026-07,Good Neighbor Pharmacy Miconazole 1,1,10,10,100.0,10.0,,NORMAL / BELOW
+2025-07,Good Sense Clear Lax,1,14,12,85.7,14.0,,NORMAL / BELOW
+2026-04,Good Sense Clear Lax,1,20,15,75.0,17.0,6.0,ABOVE AVERAGE
+2026-06,Good Sense Clear Lax,1,17,12,70.6,17.0,-3.0,NORMAL / BELOW
+2026-09,Good Sense Clear Lax,1,18,13,72.2,18.3,1.0,ABOVE AVERAGE
+2026-10,Good Sense Clear Lax,1,15,12,80.0,16.7,-3.0,NORMAL / BELOW
+2026-11,Good Sense Clear Lax,1,18,17,94.4,17.0,3.0,ABOVE AVERAGE
+2025-04,HEB SPF 50 Kids Purple Mineral Sunscreen Stick Grape Scented,1,32,22,68.8,32.0,,ABOVE AVERAGE
+2025-11,HEB SPF 50 Kids Purple Mineral Sunscreen Stick Grape Scented,1,26,25,96.2,29.0,-6.0,NORMAL / BELOW
+2026-04,HEB SPF 50 Kids Purple Mineral Sunscreen Stick Grape Scented,1,30,28,93.3,29.3,4.0,NORMAL / BELOW
+2027-01,HEB SPF 50 Kids Purple Mineral Sunscreen Stick Grape Scented,1,37,34,91.9,31.0,7.0,ABOVE AVERAGE
+2027-02,HEB SPF 50 Kids Purple Mineral Sunscreen Stick Grape Scented,1,26,18,69.2,31.0,-11.0,NORMAL / BELOW
+2025-04,HERS Miconazole 3,1,9,8,88.9,9.0,,NORMAL / BELOW
+2026-11,HERS Miconazole 3,1,9,7,77.8,9.0,0.0,NORMAL / BELOW
+2025-03,Hand Sanitizer,1,5,5,100.0,5.0,,NORMAL / BELOW
+2026-10,Hand Sanitizer,1,15,14,93.3,10.0,10.0,ABOVE AVERAGE
+2026-11,Hand Sanitizer,1,16,12,75.0,12.0,1.0,ABOVE AVERAGE
+2025-03,Hand Sanitizer Cucumber Aloe,1,8,6,75.0,8.0,,NORMAL / BELOW
+2026-04,Hand Sanitizer Cucumber Aloe,1,19,18,94.7,13.5,11.0,ABOVE AVERAGE
+2027-01,Hand Sanitizer Cucumber Aloe,1,23,23,100.0,16.7,4.0,ABOVE AVERAGE
+2026-06,Helleborus Niger,1,24,20,83.3,24.0,,NORMAL / BELOW
+2026-07,Helleborus Niger,1,28,20,71.4,26.0,4.0,ABOVE AVERAGE
+2026-01,Herbal Cough Drops Original Herb,2,16,14,87.5,16.0,,ABOVE AVERAGE
+2026-06,Herbal Cough Drops Original Herb,1,7,6,85.7,11.5,-9.0,NORMAL / BELOW
+2026-01,Home Farmacy,1,17,13,76.5,17.0,,ABOVE AVERAGE
+2026-06,Home Farmacy,1,14,14,100.0,15.5,-3.0,NORMAL / BELOW
+2025-08,Hydralazine Hydrochloride,1,40,40,100.0,40.0,,ABOVE AVERAGE
+2026-06,Hydralazine Hydrochloride,1,39,27,69.2,39.5,-1.0,ABOVE AVERAGE
+2026-12,Hydralazine Hydrochloride,1,31,23,74.2,36.7,-8.0,NORMAL / BELOW
+2025-05,Hydrocodone Bitartrate and Acetaminophen,1,14,9,64.3,14.0,,NORMAL / BELOW
+2026-01,Hydrocodone Bitartrate and Acetaminophen,1,28,20,71.4,28.0,,NORMAL / BELOW
+2026-04,Hydrocodone Bitartrate and Acetaminophen,1,30,30,100.0,29.0,2.0,ABOVE AVERAGE
+2026-08,Hydrocodone Bitartrate and Acetaminophen,1,14,14,100.0,14.0,0.0,NORMAL / BELOW
+2025-06,Hydrocodone Bitartrate and Ibuprofen,1,19,13,68.4,19.0,,ABOVE AVERAGE
+2026-01,Hydrocodone Bitartrate and Ibuprofen,1,19,14,73.7,19.0,0.0,ABOVE AVERAGE
+2027-01,Hydrocodone Bitartrate and Ibuprofen,1,16,14,87.5,18.0,-3.0,NORMAL / BELOW
+2025-11,Hydrogen Peroxide,1,13,12,92.3,13.0,,NORMAL / BELOW
+2026-06,Hydrogen Peroxide,1,14,11,78.6,13.5,1.0,ABOVE AVERAGE
+2025-03,Hydroxychloroquine Sulfate,1,13,11,84.6,13.0,,NORMAL / BELOW
+2025-09,Hydroxychloroquine Sulfate,1,15,14,93.3,14.0,2.0,ABOVE AVERAGE
+2025-12,Hygiene Clean Eucalyptus Hand Sanitizer,1,27,25,92.6,27.0,,NORMAL / BELOW
+2026-02,Hygiene Clean Mahogany Teakwood Hand Sanitizer,1,17,13,76.5,17.0,,NORMAL / BELOW
+2025-03,Hylands Naturals Earache Drops,1,6,6,100.0,6.0,,ABOVE AVERAGE
+2026-11,Hylands Naturals Earache Drops,1,5,3,60.0,5.5,-1.0,NORMAL / BELOW
+2025-03,Ibuprofen,2,13,10,76.9,13.0,,ABOVE AVERAGE
+2027-01,Ibuprofen,1,6,5,83.3,9.5,-7.0,NORMAL / BELOW
+2027-02,Ibuprofen,1,5,4,80.0,8.0,-1.0,NORMAL / BELOW
+2026-04,IceQuake Analgestic White,1,15,15,100.0,15.0,,NORMAL / BELOW
+2026-10,IceQuake Analgestic White,1,15,15,100.0,15.0,0.0,NORMAL / BELOW
+2026-11,IceQuake Analgestic White,1,22,18,81.8,17.3,7.0,ABOVE AVERAGE
+2026-02,Icy Hot Lidocaine No-Mess,1,22,17,77.3,22.0,,ABOVE AVERAGE
+2026-03,Icy Hot Lidocaine No-Mess,1,21,21,100.0,21.5,-1.0,ABOVE AVERAGE
+2026-07,Icy Hot Lidocaine No-Mess,1,22,16,72.7,21.7,1.0,ABOVE AVERAGE
+2026-08,Icy Hot Lidocaine No-Mess,1,6,4,66.7,16.3,-16.0,NORMAL / BELOW
+2025-11,Indomethacin,1,11,7,63.6,11.0,,NORMAL / BELOW
+2026-09,Indomethacin,1,20,17,85.0,15.5,9.0,ABOVE AVERAGE
+2026-11,Indomethacin,1,17,12,70.6,16.0,-3.0,ABOVE AVERAGE
+2025-05,Instant Anti Aging Wrinkle Eye Treatment Syringe,2,18,13,72.2,18.0,,ABOVE AVERAGE
+2026-01,Instant Anti Aging Wrinkle Eye Treatment Syringe,1,7,4,57.1,12.5,-11.0,NORMAL / BELOW
+2026-12,Instant Anti Aging Wrinkle Eye Treatment Syringe,2,13,12,92.3,12.7,6.0,ABOVE AVERAGE
+2026-08,Insulin Aspart Protamine and Insulin Aspart Mix 70/30,1,4,2,50.0,4.0,,NORMAL / BELOW
+2026-11,Insulin Aspart Protamine and Insulin Aspart Mix 70/30,1,4,2,50.0,4.0,0.0,NORMAL / BELOW
+2027-02,Insulin Aspart Protamine and Insulin Aspart Mix 70/30,1,4,3,75.0,4.0,0.0,NORMAL / BELOW
+2025-03,Ionite APF,1,11,7,63.6,11.0,,ABOVE AVERAGE
+2026-02,Ionite APF,1,10,9,90.0,10.5,-1.0,ABOVE AVERAGE
+2026-10,Ionite APF,1,5,5,100.0,8.7,-5.0,NORMAL / BELOW
+2025-03,Irbesartan,1,26,18,69.2,26.0,,ABOVE AVERAGE
+2025-04,Irbesartan,1,14,14,100.0,14.0,,ABOVE AVERAGE
+2025-08,Irbesartan,1,18,17,94.4,22.0,-8.0,NORMAL / BELOW
+2026-02,Irbesartan,1,13,13,100.0,13.5,-1.0,NORMAL / BELOW
+2026-03,Irbesartan,1,13,12,92.3,13.3,0.0,NORMAL / BELOW
+2026-05,Irbesartan,1,18,17,94.4,20.7,0.0,NORMAL / BELOW
+2026-05,Irbesartan,1,15,11,73.3,13.7,2.0,ABOVE AVERAGE
+2027-01,Irbesartan,1,11,10,90.9,15.7,-7.0,NORMAL / BELOW
+2025-08,Isopropyl alcohol 70 percent,1,10,10,100.0,10.0,,NORMAL / BELOW
+2025-08,Jantoven,1,8,6,75.0,8.0,,NORMAL / BELOW
+2027-02,Jantoven,1,8,7,87.5,8.0,0.0,NORMAL / BELOW
+2026-11,Jointflex,1,29,27,93.1,29.0,,NORMAL / BELOW
+2025-10,KINLO Golden Rays Sunscreen (Medium Tinted),1,8,6,75.0,8.0,,NORMAL / BELOW
+2026-03,KINLO Golden Rays Sunscreen (Medium Tinted),1,10,10,100.0,9.0,2.0,ABOVE AVERAGE
+2026-10,KINLO Golden Rays Sunscreen (Medium Tinted),1,12,9,75.0,10.0,2.0,ABOVE AVERAGE
+2027-01,KINLO Golden Rays Sunscreen (Medium Tinted),1,9,8,88.9,10.3,-3.0,NORMAL / BELOW
+2025-11,Kali Cyanatum,1,3,3,100.0,3.0,,NORMAL / BELOW
+2026-01,Kali Cyanatum,1,5,4,80.0,4.0,2.0,ABOVE AVERAGE
+2026-04,Kali Cyanatum,1,4,2,50.0,4.0,-1.0,NORMAL / BELOW
+2026-12,Kali Cyanatum,1,4,3,75.0,4.3,0.0,NORMAL / BELOW
+2025-06,Kelnor 1/50,1,17,14,82.4,17.0,,NORMAL / BELOW
+2025-05,Kidney Drainage,1,6,6,100.0,6.0,,NORMAL / BELOW
+2025-07,Kidney Drainage,1,8,6,75.0,7.0,2.0,NORMAL / BELOW
+2025-10,Kidney Drainage,1,10,9,90.0,8.0,2.0,NORMAL / BELOW
+2026-11,Kidney Drainage,1,25,25,100.0,14.3,15.0,ABOVE AVERAGE
+2026-12,Kidney Drainage,1,19,13,68.4,18.0,-6.0,ABOVE AVERAGE
+2026-07,Kroger Sport Sunscreen Broad Spectrum SPF 15,1,9,7,77.8,9.0,,ABOVE AVERAGE
+2026-10,Kroger Sport Sunscreen Broad Spectrum SPF 15,1,7,6,85.7,8.0,-2.0,NORMAL / BELOW
+2026-05,LBEL NUDE SKIN ULTRA LIGHT MATTE FOUNDATION WITH VITAMINS SPF 20 CAPUCCINO 310-C,1,14,13,92.9,14.0,,NORMAL / BELOW
+2026-06,LBEL NUDE SKIN ULTRA LIGHT MATTE FOUNDATION WITH VITAMINS SPF 20 CAPUCCINO 310-C,1,16,14,87.5,15.0,2.0,ABOVE AVERAGE
+2025-03,LIDOCAINE,1,12,10,83.3,12.0,,NORMAL / BELOW
+2025-10,LIDOCAINE,1,15,11,73.3,13.5,3.0,ABOVE AVERAGE
+2026-02,LIDOCAINE,1,11,9,81.8,12.7,-4.0,NORMAL / BELOW
+2025-03,LIVFRESH GUM PROTECT,1,5,3,60.0,5.0,,NORMAL / BELOW
+2026-07,LIVFRESH GUM PROTECT,2,8,5,62.5,6.5,3.0,ABOVE AVERAGE
+2027-01,LODOCO,1,14,11,78.6,14.0,,NORMAL / BELOW
+2025-04,LORATADINE,1,19,18,94.7,19.0,,NORMAL / BELOW
+2026-10,LORATADINE,1,22,18,81.8,20.5,3.0,ABOVE AVERAGE
+2025-10,Lamotrigine,1,8,8,100.0,8.0,,ABOVE AVERAGE
+2026-04,Lamotrigine,1,13,10,76.9,13.0,,ABOVE AVERAGE
+2026-05,Lamotrigine,1,7,7,100.0,7.5,-1.0,NORMAL / BELOW
+2026-06,Lamotrigine,1,7,6,85.7,7.3,0.0,NORMAL / BELOW
+2026-10,Lamotrigine,1,7,6,85.7,7.0,0.0,NORMAL / BELOW
+2027-01,Lamotrigine,1,11,8,72.7,12.0,-2.0,NORMAL / BELOW
+2027-01,Lamotrigine,1,9,6,66.7,7.7,2.0,ABOVE AVERAGE
+2026-02,Lansoprazole,1,15,11,73.3,15.0,,NORMAL / BELOW
+2026-06,Lansoprazole,1,11,11,100.0,11.0,,NORMAL / BELOW
+2026-10,Lansoprazole,1,17,14,82.4,16.0,2.0,ABOVE AVERAGE
+2027-02,Lansoprazole,1,13,13,100.0,15.0,-4.0,NORMAL / BELOW
+2026-03,Leader Cough Drops Vanilla Honey,1,4,3,75.0,4.0,,ABOVE AVERAGE
+2026-09,Leader Cough Drops Vanilla Honey,1,3,3,100.0,3.5,-1.0,NORMAL / BELOW
+2025-04,Leader Sinus Wash Saline Refill Packets,1,5,3,60.0,5.0,,NORMAL / BELOW
+2025-05,Leader Sinus Wash Saline Refill Packets,1,4,3,75.0,4.5,-1.0,NORMAL / BELOW
+2026-06,Leader Sinus Wash Saline Refill Packets,1,7,5,71.4,5.3,3.0,ABOVE AVERAGE
+2026-10,Leader Sinus Wash Saline Refill Packets,1,5,3,60.0,5.3,-2.0,NORMAL / BELOW
+2025-03,Leg Body Makeup,1,13,9,69.2,13.0,,ABOVE AVERAGE
+2026-08,Leg Body Makeup,1,11,11,100.0,12.0,-2.0,NORMAL / BELOW
+2026-09,Leg Body Makeup,1,10,8,80.0,11.3,-1.0,NORMAL / BELOW
+2025-10,Levalbuterol,1,41,35,85.4,41.0,,NORMAL / BELOW
+2025-07,Levetiracetam,1,19,19,100.0,19.0,,ABOVE AVERAGE
+2026-03,Levetiracetam,1,17,17,100.0,18.0,-2.0,ABOVE AVERAGE
+2026-11,Levetiracetam,1,11,7,63.6,15.7,-6.0,NORMAL / BELOW
+2025-07,Levothyroxine Sodium,1,24,19,79.2,24.0,,NORMAL / BELOW
+2027-01,Levothyroxine Sodium,2,48,44,91.7,36.0,24.0,ABOVE AVERAGE
+2025-11,Lidocaine Hydrochloride,1,8,8,100.0,8.0,,ABOVE AVERAGE
+2026-01,Lidocaine Hydrochloride,1,7,6,85.7,7.5,-1.0,NORMAL / BELOW
+2026-08,Lidocaine Hydrochloride,1,8,8,100.0,7.7,1.0,ABOVE AVERAGE
+2026-09,Lidocaine Hydrochloride,1,9,8,88.9,8.0,1.0,ABOVE AVERAGE
+2026-11,Lidocaine Hydrochloride,1,9,8,88.9,8.7,0.0,ABOVE AVERAGE
+2026-12,Lidocaine Hydrochloride,1,1,1,100.0,6.3,-8.0,NORMAL / BELOW
+2025-08,Lisinopril,1,8,5,62.5,8.0,,NORMAL / BELOW
+2025-11,Lisinopril,1,8,7,87.5,8.0,0.0,NORMAL / BELOW
+2026-05,Lisinopril,1,17,12,70.6,11.0,9.0,NORMAL / BELOW
+2026-11,Lisinopril,1,19,19,100.0,14.7,2.0,ABOVE AVERAGE
+2027-01,Lisinopril,2,34,34,100.0,23.3,15.0,ABOVE AVERAGE
+2025-11,Lisinopril and Hydrochlorothiazide,1,22,15,68.2,22.0,,NORMAL / BELOW
+2026-03,Lisinopril and Hydrochlorothiazide,1,20,20,100.0,20.0,,ABOVE AVERAGE
+2026-05,Lisinopril and Hydrochlorothiazide,1,14,13,92.9,17.0,-6.0,NORMAL / BELOW
+2026-06,Lisinopril and Hydrochlorothiazide,1,35,25,71.4,28.5,13.0,ABOVE AVERAGE
+2026-09,Lisinopril and Hydrochlorothiazide,1,34,25,73.5,30.3,-1.0,ABOVE AVERAGE
+2026-11,Lisinopril and Hydrochlorothiazide,1,14,12,85.7,16.0,0.0,NORMAL / BELOW
+2026-01,Lovastatin,1,6,6,100.0,6.0,,ABOVE AVERAGE
+2026-03,Lovastatin,1,6,5,83.3,6.0,0.0,ABOVE AVERAGE
+2026-05,Lovastatin,1,5,5,100.0,5.7,-1.0,NORMAL / BELOW
+2026-09,Lovastatin,1,5,5,100.0,5.3,0.0,NORMAL / BELOW
+2025-10,Lynparza,1,17,14,82.4,17.0,,ABOVE AVERAGE
+2026-07,Lynparza,1,7,7,100.0,12.0,-10.0,NORMAL / BELOW
+2026-08,Lynparza,1,9,7,77.8,11.0,2.0,NORMAL / BELOW
+2026-10,Lynparza,1,9,6,66.7,8.3,0.0,NORMAL / BELOW
+2025-12,"MEDPURA Benzoyl Peroxide Aqueous Base, Acne Treatment Gel",1,7,5,71.4,7.0,,NORMAL / BELOW
+2026-03,"MEDPURA Benzoyl Peroxide Aqueous Base, Acne Treatment Gel",1,6,5,83.3,6.5,-1.0,NORMAL / BELOW
+2026-08,"MEDPURA Benzoyl Peroxide Aqueous Base, Acne Treatment Gel",1,8,7,87.5,7.0,2.0,ABOVE AVERAGE
+2025-04,"MERIT The Uniform Tinted Mineral Sunscreen Broad Spectrum SPF 45 18 Camel, Khaki",1,4,3,75.0,4.0,,NORMAL / BELOW
+2025-10,"MERIT The Uniform Tinted Mineral Sunscreen Broad Spectrum SPF 45 18 Camel, Khaki",1,4,3,75.0,4.0,0.0,NORMAL / BELOW
+2026-08,"MERIT The Uniform Tinted Mineral Sunscreen Broad Spectrum SPF 45 18 Camel, Khaki",1,10,10,100.0,6.0,6.0,ABOVE AVERAGE
+2025-06,"MERIT The Uniform Tinted Mineral Sunscreen Broad Spectrum SPF 45 24 Ecru, Ochre",1,3,3,100.0,3.0,,NORMAL / BELOW
+2026-09,"MERIT The Uniform Tinted Mineral Sunscreen Broad Spectrum SPF 45 24 Ecru, Ochre",1,6,4,66.7,4.5,3.0,ABOVE AVERAGE
+2025-03,METOPROLOL SUCCINATE,1,8,7,87.5,8.0,,NORMAL / BELOW
+2026-11,"MHB SKIN HYDRATING HAND SANITIZER, MELON MUSE 35ml",1,12,9,75.0,12.0,,NORMAL / BELOW
+2025-04,Maximum Strength Antacid,1,17,17,100.0,17.0,,ABOVE AVERAGE
+2026-05,Maximum Strength Antacid,1,14,11,78.6,15.5,-3.0,NORMAL / BELOW
+2026-08,Maximum Strength Antacid,1,17,16,94.1,16.0,3.0,ABOVE AVERAGE
+2026-09,Maximum Strength Hydrocortisone Anti-itch,1,18,18,100.0,18.0,,NORMAL / BELOW
+2027-02,Maximum Strength Hydrocortisone Anti-itch,1,21,20,95.2,19.5,3.0,ABOVE AVERAGE
+2026-03,Medical Gasseous Oxygen Cylinders,1,4,3,75.0,4.0,,NORMAL / BELOW
+2026-06,Medical Gasseous Oxygen Cylinders,1,4,2,50.0,4.0,0.0,NORMAL / BELOW
+2026-11,Medical Gasseous Oxygen Cylinders,1,5,3,60.0,4.3,1.0,ABOVE AVERAGE
+2026-01,Meijer Complete Lice Treatment Kit,1,9,8,88.9,9.0,,NORMAL / BELOW
+2026-11,Meijer Complete Lice Treatment Kit,1,9,8,88.9,9.0,0.0,NORMAL / BELOW
+2026-05,Meijer Extra Strength Freshmint Flavor,1,13,13,100.0,13.0,,NORMAL / BELOW
+2026-02,Mentholatum Moisturizing Hand Sanitizer,1,9,8,88.9,9.0,,NORMAL / BELOW
+2026-03,Mentholatum Moisturizing Hand Sanitizer,1,12,10,83.3,10.5,3.0,ABOVE AVERAGE
+2025-09,Methocarbamol,1,8,8,100.0,8.0,,NORMAL / BELOW
+2026-04,Methocarbamol,1,13,10,76.9,10.5,5.0,ABOVE AVERAGE
+2026-05,Methocarbamol,1,17,12,70.6,12.7,4.0,ABOVE AVERAGE
+2026-10,Methotrexate,1,13,9,69.2,13.0,,NORMAL / BELOW
+2025-11,Methylphenidate Hydrochloride,1,15,13,86.7,15.0,,ABOVE AVERAGE
+2026-03,Methylphenidate Hydrochloride,1,15,11,73.3,15.0,0.0,ABOVE AVERAGE
+2026-08,Methylphenidate Hydrochloride,1,15,12,80.0,15.0,0.0,ABOVE AVERAGE
+2026-09,Methylphenidate Hydrochloride,1,17,16,94.1,15.7,2.0,ABOVE AVERAGE
+2026-11,Methylphenidate Hydrochloride,1,17,12,70.6,16.3,0.0,ABOVE AVERAGE
+2027-01,Methylphenidate Hydrochloride,1,10,8,80.0,14.7,-7.0,NORMAL / BELOW
+2026-07,Metolazone,1,11,9,81.8,11.0,,NORMAL / BELOW
+2026-09,Metolazone,1,15,15,100.0,13.0,4.0,ABOVE AVERAGE
+2025-04,Midazolam,1,14,12,85.7,14.0,,ABOVE AVERAGE
+2025-12,Midazolam,1,12,12,100.0,13.0,-2.0,NORMAL / BELOW
+2025-04,Miglitol,2,32,28,87.5,32.0,,ABOVE AVERAGE
+2025-11,Miglitol,1,14,13,92.9,23.0,-18.0,NORMAL / BELOW
+2026-06,Miglitol,2,7,4,57.1,17.7,-7.0,NORMAL / BELOW
+2026-09,Miglitol,1,3,3,100.0,8.0,-4.0,NORMAL / BELOW
+2025-05,Moisturizing Antibacterial,1,10,8,80.0,10.0,,NORMAL / BELOW
+2026-06,Morphine Sulfate,2,9,6,66.7,9.0,,ABOVE AVERAGE
+2027-01,Morphine Sulfate,1,5,4,80.0,7.0,-4.0,NORMAL / BELOW
+2026-08,Morphine Sulfate ER,1,21,21,100.0,21.0,,NORMAL / BELOW
+2025-12,Motion Sickness Relief,1,12,8,66.7,12.0,,NORMAL / BELOW
+2026-10,Motion Sickness Relief,1,12,12,100.0,12.0,0.0,NORMAL / BELOW
+2025-03,Moxifloxacin,1,6,5,83.3,6.0,,NORMAL / BELOW
+2025-06,Mucinex Childrens Mighty Chews Cough,1,5,3,60.0,5.0,,ABOVE AVERAGE
+2026-01,Mucinex Childrens Mighty Chews Cough,1,3,3,100.0,4.0,-2.0,NORMAL / BELOW
+2027-01,Mucinex Childrens Mighty Chews Cough,1,4,4,100.0,4.0,1.0,NORMAL / BELOW
+2026-04,Mucinex Fast-Max Chest Congestion Honey and Berry Flavor,1,6,4,66.7,6.0,,NORMAL / BELOW
+2026-11,Mucinex Fast-Max Chest Congestion Honey and Berry Flavor,1,6,5,83.3,6.0,0.0,NORMAL / BELOW
+2025-07,Mucus Relief,1,15,13,86.7,15.0,,ABOVE AVERAGE
+2026-05,Mucus Relief,1,15,15,100.0,15.0,0.0,ABOVE AVERAGE
+2026-10,Mucus Relief,1,16,16,100.0,15.3,1.0,ABOVE AVERAGE
+2027-01,Mucus Relief,1,3,3,100.0,11.3,-13.0,NORMAL / BELOW
+2026-03,Mupirocin,1,10,7,70.0,10.0,,ABOVE AVERAGE
+2026-06,Mupirocin,1,7,4,57.1,8.5,-3.0,NORMAL / BELOW
+2026-07,Mupirocin,1,7,4,57.1,8.0,0.0,NORMAL / BELOW
+2026-10,Mupirocin,1,7,5,71.4,7.0,0.0,NORMAL / BELOW
+2025-08,Muscle Rub Pain Reliever Gel,1,7,4,57.1,7.0,,NORMAL / BELOW
+2027-01,Muscle Rub Pain Reliever Gel,1,7,5,71.4,7.0,0.0,NORMAL / BELOW
+2025-05,Mycocan Combination 4046,1,7,5,71.4,7.0,,NORMAL / BELOW
+2027-01,Mycocan Combination 4046,1,17,12,70.6,12.0,10.0,ABOVE AVERAGE
+2026-03,NAKED SUNDAYS CABANA GLOW MINERAL GLOW SERUM DROPS BRONZE 40mL with wild Rosella SPF 50,1,23,18,78.3,23.0,,NORMAL / BELOW
+2025-03,NAKED SUNDAYS CABANA GLOW MINERAL GLOW SERUM DROPS PEARL 40mL with Pink Algae SPF 50,1,10,9,90.0,10.0,,ABOVE AVERAGE
+2026-02,NAKED SUNDAYS CABANA GLOW MINERAL GLOW SERUM DROPS PEARL 40mL with Pink Algae SPF 50,1,9,6,66.7,9.5,-1.0,NORMAL / BELOW
+2025-03,NAPROXEN SODIUM PM,1,11,9,81.8,11.0,,NORMAL / BELOW
+2025-03,Nabumetone,1,20,19,95.0,20.0,,NORMAL / BELOW
+2025-07,Nabumetone,1,22,20,90.9,21.0,2.0,ABOVE AVERAGE
+2025-08,Nabumetone,1,18,16,88.9,18.0,,ABOVE AVERAGE
+2025-09,Nabumetone,1,21,15,71.4,21.0,-1.0,ABOVE AVERAGE
+2026-01,Nabumetone,1,26,25,96.2,23.0,5.0,ABOVE AVERAGE
+2026-09,Nabumetone,1,14,14,100.0,16.0,-4.0,NORMAL / BELOW
+2027-01,Nabumetone,1,13,13,100.0,20.0,-13.0,NORMAL / BELOW
+2026-01,Naturium Phyto-Glow Lip Balm SPF 45-Getaway,1,6,4,66.7,6.0,,NORMAL / BELOW
+2026-08,Nauzene,1,19,18,94.7,19.0,,NORMAL / BELOW
+2026-11,Nebivolol,1,8,7,87.5,8.0,,NORMAL / BELOW
+2026-02,Neutrogena SkinClearing Oil-Free Makeup - Natural Ivory 20,1,33,30,90.9,33.0,,ABOVE AVERAGE
+2026-09,Neutrogena SkinClearing Oil-Free Makeup - Natural Ivory 20,1,24,18,75.0,28.5,-9.0,NORMAL / BELOW
+2026-10,Neutrogena SkinClearing Oil-Free Makeup - Natural Ivory 20,1,34,33,97.1,30.3,10.0,ABOVE AVERAGE
+2026-12,Neutrogena SkinClearing Oil-Free Makeup - Natural Ivory 20,1,32,24,75.0,30.0,-2.0,ABOVE AVERAGE
+2025-03,Nevirapine,1,6,5,83.3,6.0,,NORMAL / BELOW
+2027-01,Nevirapine,2,10,8,80.0,8.0,4.0,ABOVE AVERAGE
+2026-04,Niccolum Phosphoricum,1,11,9,81.8,11.0,,NORMAL / BELOW
+2026-08,Niccolum Phosphoricum,1,11,9,81.8,11.0,0.0,NORMAL / BELOW
+2026-09,Niccolum Phosphoricum,1,15,13,86.7,12.3,4.0,ABOVE AVERAGE
+2025-10,Nicotine Polacrilex,1,19,15,78.9,19.0,,ABOVE AVERAGE
+2026-03,Nicotine Polacrilex,1,5,4,80.0,12.0,-14.0,NORMAL / BELOW
+2026-10,Nicotine Polacrilex,1,4,4,100.0,9.3,-1.0,NORMAL / BELOW
+2025-03,Nicotine Polacrilex Lozenge Mint,1,20,16,80.0,20.0,,ABOVE AVERAGE
+2025-07,Nicotine Polacrilex Lozenge Mint,1,16,16,100.0,18.0,-4.0,NORMAL / BELOW
+2026-04,Nicotine Polacrilex Lozenge Mint,1,14,12,85.7,16.7,-2.0,NORMAL / BELOW
+2025-12,No7 Protect and Perfect Intense Advanced Day Cream SPF 30,1,15,14,93.3,15.0,,NORMAL / BELOW
+2026-10,No7 Protect and Perfect Intense Advanced Day Cream SPF 30,1,15,10,66.7,15.0,0.0,NORMAL / BELOW
+2027-02,No7 Protect and Perfect Intense Advanced Day Cream SPF 30,1,16,13,81.3,15.3,1.0,ABOVE AVERAGE
+2025-04,Non-Tinted Mineral Sunscreen,1,18,14,77.8,18.0,,NORMAL / BELOW
+2025-08,Non-Tinted Mineral Sunscreen,1,8,6,75.0,8.0,,NORMAL / BELOW
+2025-10,Non-Tinted Mineral Sunscreen,1,20,14,70.0,19.0,2.0,ABOVE AVERAGE
+2026-02,Non-Tinted Mineral Sunscreen,1,8,7,87.5,8.0,0.0,NORMAL / BELOW
+2025-03,Nortriptyline HCL,1,5,4,80.0,5.0,,NORMAL / BELOW
+2026-12,Nortriptyline HCL,1,6,6,100.0,5.5,1.0,ABOVE AVERAGE
+2025-09,NovoLog Mix 70/30,1,11,9,81.8,11.0,,ABOVE AVERAGE
+2025-12,NovoLog Mix 70/30,1,7,6,85.7,9.0,-4.0,NORMAL / BELOW
+2026-12,NovoLog Mix 70/30,1,8,7,87.5,8.7,1.0,NORMAL / BELOW
+2027-01,NovoLog Mix 70/30,1,8,7,87.5,7.7,0.0,NORMAL / BELOW
+2026-11,Nucynta ER,1,14,10,71.4,14.0,,NORMAL / BELOW
+2026-05,Nux moschata,1,10,8,80.0,10.0,,ABOVE AVERAGE
+2026-06,Nux moschata,1,12,10,83.3,11.0,2.0,ABOVE AVERAGE
+2026-08,Nux moschata,1,7,6,85.7,9.7,-5.0,NORMAL / BELOW
+2026-10,OHM Pituitarum Complex,1,17,14,82.4,17.0,,ABOVE AVERAGE
+2027-01,OHM Pituitarum Complex,1,13,13,100.0,15.0,-4.0,NORMAL / BELOW
+2027-02,OHM Pituitarum Complex,1,12,11,91.7,14.0,-1.0,NORMAL / BELOW
+2026-01,OXYCODONE HYDROCHLORIDE,1,4,2,50.0,4.0,,NORMAL / BELOW
+2026-10,OXYGEN,1,9,9,100.0,9.0,,NORMAL / BELOW
+2026-12,OXYGEN,1,10,9,90.0,9.5,1.0,ABOVE AVERAGE
+2025-09,Obagi-C Rx system C-Therapy Night Skin Lightening with Vitamins C and E,1,18,18,100.0,18.0,,NORMAL / BELOW
+2026-06,Obagi-C Rx system C-Therapy Night Skin Lightening with Vitamins C and E,1,18,14,77.8,18.0,0.0,NORMAL / BELOW
+2026-07,Obagi-C Rx system C-Therapy Night Skin Lightening with Vitamins C and E,1,19,19,100.0,18.3,1.0,ABOVE AVERAGE
+2025-03,Ofloxacin,1,17,16,94.1,17.0,,NORMAL / BELOW
+2025-11,Ofloxacin,1,22,18,81.8,19.5,5.0,ABOVE AVERAGE
+2026-07,Ofloxacin,1,17,14,82.4,18.7,-5.0,NORMAL / BELOW
+2025-05,Old Spice Oasis with Vanilla Notes Dry,1,12,12,100.0,12.0,,NORMAL / BELOW
+2025-08,Old Spice Oasis with Vanilla Notes Dry,1,16,16,100.0,14.0,4.0,ABOVE AVERAGE
+2026-07,Old Spice Oasis with Vanilla Notes Dry,1,16,15,93.8,14.7,0.0,ABOVE AVERAGE
+2025-06,Old Spice Volcano with Cedar Notes Dry,1,16,11,68.8,16.0,,NORMAL / BELOW
+2026-09,Old Spice Volcano with Cedar Notes Dry,1,15,12,80.0,15.5,-1.0,NORMAL / BELOW
+2026-11,Old Spice Volcano with Cedar Notes Dry,1,23,17,73.9,18.0,8.0,ABOVE AVERAGE
+2025-07,Olopatadine Hydrochloride Ophthalmic Solution,1,16,14,87.5,16.0,,NORMAL / BELOW
+2026-03,Olopatadine Hydrochloride Ophthalmic Solution,1,16,13,81.3,16.0,0.0,NORMAL / BELOW
+2025-04,Ondansetron,1,12,9,75.0,12.0,,NORMAL / BELOW
+2025-05,Ondansetron,1,12,8,66.7,12.0,0.0,NORMAL / BELOW
+2025-06,Ondansetron,1,14,14,100.0,12.7,2.0,ABOVE AVERAGE
+2025-06,Ondansetron,1,22,21,95.5,22.0,,ABOVE AVERAGE
+2025-10,Ondansetron,1,12,10,83.3,17.0,-10.0,NORMAL / BELOW
+2025-11,Ondansetron,2,29,25,86.2,29.0,,ABOVE AVERAGE
+2026-02,Ondansetron,1,12,11,91.7,12.7,-2.0,NORMAL / BELOW
+2026-04,Ondansetron,1,14,13,92.9,16.0,2.0,NORMAL / BELOW
+2026-07,Ondansetron,1,16,16,100.0,22.5,-13.0,NORMAL / BELOW
+2025-11,Otrexup,2,26,22,84.6,26.0,,ABOVE AVERAGE
+2026-05,Otrexup,1,9,9,100.0,17.5,-17.0,NORMAL / BELOW
+2026-04,Oxybutynin Chloride Extended Release,1,10,10,100.0,10.0,,NORMAL / BELOW
+2026-08,Oxybutynin Chloride Extended Release,1,10,10,100.0,10.0,0.0,NORMAL / BELOW
+2025-11,Oxygen,1,22,17,77.3,22.0,,ABOVE AVERAGE
+2026-02,Oxygen,1,24,16,66.7,23.0,2.0,ABOVE AVERAGE
+2026-04,Oxygen,1,17,13,76.5,21.0,-7.0,NORMAL / BELOW
+2026-05,Oxygen,1,18,17,94.4,19.7,1.0,ABOVE AVERAGE
+2026-08,Oxygen,1,17,13,76.5,17.3,-1.0,NORMAL / BELOW
+2026-10,Oxygen,1,4,4,100.0,13.0,-13.0,NORMAL / BELOW
+2026-02,PHENDIMETRAZINE TARTRATE,1,20,20,100.0,20.0,,NORMAL / BELOW
+2026-05,PHENDIMETRAZINE TARTRATE,1,22,20,90.9,21.0,2.0,ABOVE AVERAGE
+2026-04,POTASSIUM CHLORIDE,1,15,11,73.3,15.0,,ABOVE AVERAGE
+2027-01,POTASSIUM CHLORIDE,1,13,9,69.2,14.0,-2.0,NORMAL / BELOW
+2025-09,PRAVASTATIN SODIUM,1,12,12,100.0,12.0,,NORMAL / BELOW
+2026-02,PRAVASTATIN SODIUM,1,11,9,81.8,11.5,-1.0,NORMAL / BELOW
+2026-09,PRAVASTATIN SODIUM,1,5,3,60.0,5.0,,ABOVE AVERAGE
+2026-10,PRAVASTATIN SODIUM,1,13,13,100.0,12.0,2.0,ABOVE AVERAGE
+2026-10,PRAVASTATIN SODIUM,1,4,4,100.0,4.5,-1.0,NORMAL / BELOW
+2026-11,PRAVASTATIN SODIUM,1,11,7,63.6,11.7,-2.0,NORMAL / BELOW
+2027-03,PRAVASTATIN SODIUM,1,15,13,86.7,13.0,4.0,ABOVE AVERAGE
+2026-03,PREDNISOLONE ACETATE,1,37,26,70.3,37.0,,ABOVE AVERAGE
+2027-01,PREDNISOLONE ACETATE,1,32,32,100.0,34.5,-5.0,NORMAL / BELOW
+2026-03,"PREGABALIN capsules, CV",1,8,6,75.0,8.0,,NORMAL / BELOW
+2026-11,"PREGABALIN capsules, CV",1,11,10,90.9,9.5,3.0,ABOVE AVERAGE
+2025-04,PRIDEFUL SPF 15 LIP BALM-melon,1,4,4,100.0,4.0,,NORMAL / BELOW
+2025-09,PRIDEFUL SPF 15 LIP BALM-melon,1,4,3,75.0,4.0,0.0,NORMAL / BELOW
+2026-08,PRIME SOURCE Antibacterial Foam Handwash,1,18,17,94.4,18.0,,NORMAL / BELOW
+2026-11,PRIME SOURCE Antibacterial Foam Handwash,1,19,19,100.0,18.5,1.0,NORMAL / BELOW
+2027-01,PRIME SOURCE Antibacterial Foam Handwash,1,21,18,85.7,19.3,2.0,ABOVE AVERAGE
+2025-11,PROCHLORPERAZINE MALEATE,1,11,8,72.7,11.0,,ABOVE AVERAGE
+2026-02,PROCHLORPERAZINE MALEATE,1,9,7,77.8,10.0,-2.0,NORMAL / BELOW
+2026-02,PT Elite Premium Pain Relief,1,3,3,100.0,3.0,,NORMAL / BELOW
+2026-04,PT Elite Premium Pain Relief,1,4,2,50.0,3.5,1.0,ABOVE AVERAGE
+2026-08,PT Elite Premium Pain Relief,1,4,4,100.0,3.7,0.0,ABOVE AVERAGE
+2026-08,PTS/Stress Remedy,1,27,25,92.6,27.0,,NORMAL / BELOW
+2026-12,PTS/Stress Remedy,1,28,26,92.9,27.5,1.0,ABOVE AVERAGE
+2026-07,PURELL Advanced Hand Sanitizer Naturals Gel,1,22,18,81.8,22.0,,NORMAL / BELOW
+2026-03,Paecilomyces variotii,1,8,8,100.0,8.0,,NORMAL / BELOW
+2026-01,Pain Relief Extra Strength,1,5,4,80.0,5.0,,NORMAL / BELOW
+2026-03,Pain Relief Patch,1,5,5,100.0,5.0,,NORMAL / BELOW
+2026-01,Pain Reliever Extra Strength,1,17,14,82.4,17.0,,ABOVE AVERAGE
+2026-07,Pain Reliever Extra Strength,1,15,14,93.3,16.0,-2.0,NORMAL / BELOW
+2026-01,"Pain Reliever PM, Extra Strength, 24-7 Life by 7-Eleven",1,3,2,66.7,3.0,,NORMAL / BELOW
+2026-12,"Pain Reliever PM, Extra Strength, 24-7 Life by 7-Eleven",1,5,5,100.0,4.0,2.0,ABOVE AVERAGE
+2025-03,Palladium metallicum,1,16,13,81.3,16.0,,NORMAL / BELOW
+2026-03,Palladium metallicum,2,33,26,78.8,24.5,17.0,ABOVE AVERAGE
+2026-08,Palladium metallicum,1,15,11,73.3,21.3,-18.0,NORMAL / BELOW
+2025-03,Paxlovid,2,11,8,72.7,11.0,,ABOVE AVERAGE
+2025-05,Paxlovid,1,6,4,66.7,8.5,-5.0,NORMAL / BELOW
+2025-09,Paxlovid,1,6,4,66.7,7.7,0.0,NORMAL / BELOW
+2025-11,Paxlovid,1,2,2,100.0,4.7,-4.0,NORMAL / BELOW
+2026-08,Peach Slices 3 Step Acne Starter Kit,1,4,2,50.0,4.0,,NORMAL / BELOW
+2026-07,Perampanel,1,16,15,93.8,16.0,,NORMAL / BELOW
+2026-12,Perampanel,1,18,15,83.3,17.0,2.0,ABOVE AVERAGE
+2026-11,Pilocarpine Hydrochloride,1,7,6,85.7,7.0,,NORMAL / BELOW
+2026-12,Pilocarpine Hydrochloride,1,9,9,100.0,8.0,2.0,ABOVE AVERAGE
+2025-05,Piper Methysticum,1,36,35,97.2,36.0,,NORMAL / BELOW
+2025-04,Polyethylene Glycol 3350,1,3,2,66.7,3.0,,NORMAL / BELOW
+2026-03,Polyethylene Glycol 3350,1,4,3,75.0,3.5,1.0,NORMAL / BELOW
+2026-04,Polyethylene Glycol 3350,1,5,4,80.0,4.0,1.0,ABOVE AVERAGE
+2026-10,Polyethylene Glycol 3350,1,4,3,75.0,4.3,-1.0,NORMAL / BELOW
+2027-02,Polyethylene Glycol 3350,1,5,4,80.0,4.7,1.0,ABOVE AVERAGE
+2025-03,Potassium Chloride,2,16,15,93.8,16.0,,ABOVE AVERAGE
+2025-05,Potassium Chloride,1,7,4,57.1,11.5,-9.0,NORMAL / BELOW
+2025-06,Potassium Chloride,1,8,6,75.0,10.3,1.0,NORMAL / BELOW
+2025-10,Potassium Chloride,1,6,6,100.0,7.0,-2.0,NORMAL / BELOW
+2025-03,Povidone Iodine Prep Pad,1,21,17,81.0,21.0,,ABOVE AVERAGE
+2025-10,Povidone Iodine Prep Pad,1,14,13,92.9,17.5,-7.0,NORMAL / BELOW
+2026-07,Povidone Iodine Prep Pad,1,14,13,92.9,16.3,0.0,NORMAL / BELOW
+2026-11,Povidone Iodine Prep Pad,1,16,14,87.5,14.7,2.0,NORMAL / BELOW
+2025-04,Povidone-Iodine Paint Solution,1,33,31,93.9,33.0,,ABOVE AVERAGE
+2026-03,Povidone-Iodine Paint Solution,1,29,29,100.0,31.0,-4.0,NORMAL / BELOW
+2025-03,Pravastatin Sodium,1,5,4,80.0,5.0,,ABOVE AVERAGE
+2026-03,Pravastatin Sodium,1,3,2,66.7,4.0,-2.0,NORMAL / BELOW
+2025-09,Preferred Plus Pharmacy Redness Relief Eye Drops,1,15,10,66.7,15.0,,ABOVE AVERAGE
+2026-03,Preferred Plus Pharmacy Redness Relief Eye Drops,1,14,14,100.0,14.5,-1.0,NORMAL / BELOW
+2025-09,Preferred Stool Softener laxative,1,16,13,81.3,16.0,,ABOVE AVERAGE
+2025-10,Preferred Stool Softener laxative,1,14,10,71.4,15.0,-2.0,ABOVE AVERAGE
+2026-05,Preferred Stool Softener laxative,1,13,12,92.3,14.3,-1.0,NORMAL / BELOW
+2026-09,Preferred Stool Softener laxative,1,12,8,66.7,13.0,-1.0,NORMAL / BELOW
+2025-04,Pregabalin,1,14,9,64.3,14.0,,NORMAL / BELOW
+2025-08,Pregabalin,2,32,28,87.5,23.0,18.0,ABOVE AVERAGE
+2026-09,Pregabalin,1,13,10,76.9,13.0,,NORMAL / BELOW
+2026-05,Premier Value Bacitracin Zinc,1,15,14,93.3,15.0,,NORMAL / BELOW
+2025-03,Prempro,1,5,4,80.0,5.0,,NORMAL / BELOW
+2025-06,Prempro,1,6,4,66.7,5.5,1.0,ABOVE AVERAGE
+2025-12,Prempro,1,5,4,80.0,5.3,-1.0,NORMAL / BELOW
+2026-11,Prempro,1,6,6,100.0,5.7,1.0,ABOVE AVERAGE
+2025-03,Primaquine Phosphate,1,11,11,100.0,11.0,,NORMAL / BELOW
+2025-06,Primaquine Phosphate,1,11,9,81.8,11.0,0.0,NORMAL / BELOW
+2025-10,Primaquine Phosphate,2,22,17,77.3,14.7,11.0,ABOVE AVERAGE
+2025-11,Primaquine Phosphate,1,9,9,100.0,14.0,-13.0,NORMAL / BELOW
+2026-12,Primaquine Phosphate,1,7,5,71.4,12.7,-2.0,NORMAL / BELOW
+2026-02,Pristiq Extended-Release,1,13,13,100.0,13.0,,ABOVE AVERAGE
+2026-03,Pristiq Extended-Release,1,13,10,76.9,13.0,0.0,ABOVE AVERAGE
+2026-11,Pristiq Extended-Release,1,12,8,66.7,12.7,-1.0,ABOVE AVERAGE
+2027-01,Pristiq Extended-Release,1,8,8,100.0,11.0,-4.0,NORMAL / BELOW
+2025-10,Procardia XL,1,15,10,66.7,15.0,,NORMAL / BELOW
+2026-06,Procardia XL,1,20,20,100.0,17.5,5.0,ABOVE AVERAGE
+2026-12,Procardia XL,1,15,10,66.7,16.7,-5.0,NORMAL / BELOW
+2025-06,Promethazine Hydrochloride,1,11,10,90.9,11.0,,ABOVE AVERAGE
+2025-10,Promethazine Hydrochloride,1,9,9,100.0,10.0,-2.0,ABOVE AVERAGE
+2026-05,Promethazine Hydrochloride,1,9,8,88.9,9.7,0.0,ABOVE AVERAGE
+2026-06,Promethazine Hydrochloride,1,13,9,69.2,10.3,4.0,ABOVE AVERAGE
+2026-12,Promethazine Hydrochloride,1,1,1,100.0,7.7,-12.0,NORMAL / BELOW
+2026-03,Proper Protection Plus Primer NT,1,12,8,66.7,12.0,,NORMAL / BELOW
+2027-01,Proper Protection Plus Primer NT,1,13,12,92.3,12.5,1.0,ABOVE AVERAGE
+2025-09,"QC Ultra Strength Antacid Soft Chews, Cherry",1,17,14,82.4,17.0,,NORMAL / BELOW
+2026-06,"QC Ultra Strength Antacid Soft Chews, Cherry",1,21,19,90.5,19.0,4.0,ABOVE AVERAGE
+2026-07,"QC Ultra Strength Antacid Soft Chews, Cherry",1,15,13,86.7,17.7,-6.0,NORMAL / BELOW
+2025-07,Quetiapine,1,44,35,79.5,44.0,,ABOVE AVERAGE
+2025-11,Quetiapine,1,19,18,94.7,19.0,,NORMAL / BELOW
+2026-03,Quetiapine,1,26,19,73.1,35.0,-18.0,NORMAL / BELOW
+2026-04,Quetiapine,1,28,25,89.3,32.7,2.0,NORMAL / BELOW
+2026-05,Quetiapine,1,26,20,76.9,26.7,-2.0,NORMAL / BELOW
+2026-09,Quetiapine,2,32,27,84.4,25.5,13.0,ABOVE AVERAGE
+2026-09,Quetiapine,1,23,21,91.3,25.7,-3.0,NORMAL / BELOW
+2026-11,Quetiapine,1,27,24,88.9,25.3,4.0,NORMAL / BELOW
+2027-01,Quetiapine,1,14,11,78.6,21.7,-18.0,NORMAL / BELOW
+2025-04,ROPINIROLE,1,11,8,72.7,11.0,,NORMAL / BELOW
+2026-06,ROPINIROLE,1,8,7,87.5,8.0,,NORMAL / BELOW
+2026-12,ROPINIROLE,1,16,12,75.0,13.5,5.0,ABOVE AVERAGE
+2025-10,RYONCIL,1,4,3,75.0,4.0,,NORMAL / BELOW
+2025-08,Rauwolfia Serpentina,1,7,5,71.4,7.0,,NORMAL / BELOW
+2026-03,Rauwolfia Serpentina,1,6,6,100.0,6.5,-1.0,NORMAL / BELOW
+2026-09,Rauwolfia Serpentina,1,9,9,100.0,7.3,3.0,ABOVE AVERAGE
+2026-10,Rauwolfia Serpentina,1,9,9,100.0,8.0,0.0,ABOVE AVERAGE
+2025-03,Roll On Anti Perspirant Alcohol Free,1,6,5,83.3,6.0,,NORMAL / BELOW
+2025-07,Roll On Anti Perspirant Alcohol Free,1,6,4,66.7,6.0,0.0,NORMAL / BELOW
+2026-01,SALONPAS-HOT CAPSICUM,1,15,11,73.3,15.0,,ABOVE AVERAGE
+2026-09,SALONPAS-HOT CAPSICUM,1,14,12,85.7,14.5,-1.0,NORMAL / BELOW
+2026-12,SILODOSIN,1,11,8,72.7,11.0,,NORMAL / BELOW
+2026-05,SPF30 Sunscreen Cariposa,1,16,11,68.8,16.0,,NORMAL / BELOW
+2027-02,SPF30 Sunscreen Cariposa,1,18,17,94.4,17.0,2.0,ABOVE AVERAGE
+2025-03,SULINDAC,1,7,7,100.0,7.0,,ABOVE AVERAGE
+2026-01,SULINDAC,1,6,5,83.3,6.5,-1.0,NORMAL / BELOW
+2026-03,SULINDAC,1,7,6,85.7,6.7,1.0,ABOVE AVERAGE
+2026-10,SUNSCREEN Stick,1,12,11,91.7,12.0,,ABOVE AVERAGE
+2027-01,SUNSCREEN Stick,1,8,6,75.0,10.0,-4.0,NORMAL / BELOW
+2026-07,Sabal Serrulata,1,21,20,95.2,21.0,,NORMAL / BELOW
+2026-10,Sabal Serrulata,1,24,16,66.7,22.5,3.0,ABOVE AVERAGE
+2026-11,Sacubitril and Valsartan,1,14,10,71.4,14.0,,ABOVE AVERAGE
+2026-12,Sacubitril and Valsartan,1,12,9,75.0,13.0,-2.0,NORMAL / BELOW
+2026-11,Shaant Hydrating Body Scrub,1,5,4,80.0,5.0,,NORMAL / BELOW
+2025-10,Sheer Non-Tinted Mineral Sunscreen Stick,1,22,19,86.4,22.0,,NORMAL / BELOW
+2027-02,Sheglam Dew and Done Skin Tint with SPF 20 Saddle,1,10,9,90.0,10.0,,NORMAL / BELOW
+2026-06,Sheglam Dew and Done Skin Tint with SPF 20 Sepia,1,5,3,60.0,5.0,,ABOVE AVERAGE
+2026-07,Sheglam Dew and Done Skin Tint with SPF 20 Sepia,1,4,4,100.0,4.5,-1.0,NORMAL / BELOW
+2025-11,Sildenafil Citrate,1,8,6,75.0,8.0,,ABOVE AVERAGE
+2026-01,Sildenafil Citrate,1,6,5,83.3,7.0,-2.0,NORMAL / BELOW
+2026-03,Sildenafil Citrate,1,6,5,83.3,6.7,0.0,NORMAL / BELOW
+2025-10,Simvastatin,1,13,12,92.3,13.0,,NORMAL / BELOW
+2026-06,Simvastatin,1,18,18,100.0,15.5,5.0,ABOVE AVERAGE
+2025-04,Sodium chloride,1,26,22,84.6,26.0,,NORMAL / BELOW
+2025-04,Solar Defense Body,1,12,9,75.0,12.0,,NORMAL / BELOW
+2025-06,Solar Defense Body,1,14,12,85.7,13.0,2.0,NORMAL / BELOW
+2026-02,Solar Defense Body,1,17,17,100.0,14.3,3.0,ABOVE AVERAGE
+2025-04,Sootheez Birthday Cake,1,21,14,66.7,21.0,,NORMAL / BELOW
+2025-08,Streptococcinum,1,14,10,71.4,14.0,,ABOVE AVERAGE
+2026-03,Streptococcinum,1,13,9,69.2,13.5,-1.0,NORMAL / BELOW
+2027-01,Streptococcinum,1,14,10,71.4,13.7,1.0,ABOVE AVERAGE
+2026-02,Sucralfate,1,20,15,75.0,20.0,,ABOVE AVERAGE
+2026-04,Sucralfate,1,14,10,71.4,17.0,-6.0,NORMAL / BELOW
+2025-11,Sulfasalazine,1,12,8,66.7,12.0,,ABOVE AVERAGE
+2026-05,Sulfasalazine,1,10,10,100.0,11.0,-2.0,NORMAL / BELOW
+2025-09,Summit Smelling Salts,1,11,10,90.9,11.0,,ABOVE AVERAGE
+2027-02,Summit Smelling Salts,1,9,8,88.9,10.0,-2.0,NORMAL / BELOW
+2026-02,Sun Bum Signature High Performance Mineral Sunscreen Face Stick Tinted 50,1,11,7,63.6,11.0,,ABOVE AVERAGE
+2026-09,Sun Bum Signature High Performance Mineral Sunscreen Face Stick Tinted 50,1,9,6,66.7,10.0,-2.0,NORMAL / BELOW
+2026-06,T-29,1,9,7,77.8,9.0,,NORMAL / BELOW
+2025-04,T-Relief,1,8,5,62.5,8.0,,NORMAL / BELOW
+2025-06,T-Relief,1,9,7,77.8,8.5,1.0,ABOVE AVERAGE
+2026-09,T-Relief,1,8,7,87.5,8.3,-1.0,NORMAL / BELOW
+2026-10,T-Relief,1,7,5,71.4,8.0,-1.0,NORMAL / BELOW
+2025-07,TECELRA,2,40,31,77.5,40.0,,ABOVE AVERAGE
+2025-08,TECELRA,1,25,25,100.0,32.5,-15.0,NORMAL / BELOW
+2025-08,TEMAZEPAM,1,14,10,71.4,14.0,,ABOVE AVERAGE
+2026-04,TEMAZEPAM,1,15,11,73.3,14.5,1.0,ABOVE AVERAGE
+2026-10,TEMAZEPAM,1,12,9,75.0,13.7,-3.0,NORMAL / BELOW
+2026-12,TEMAZEPAM,1,14,9,64.3,13.7,2.0,ABOVE AVERAGE
+2026-07,THERA CARE PAIN THERAPY,1,31,29,93.5,31.0,,ABOVE AVERAGE
+2026-09,THERA CARE PAIN THERAPY,1,28,21,75.0,29.5,-3.0,NORMAL / BELOW
+2025-07,TRIDERMA ULCER DEFENSE HEALING,1,21,20,95.2,21.0,,NORMAL / BELOW
+2026-01,TRIDERMA ULCER DEFENSE HEALING,1,23,18,78.3,22.0,2.0,ABOVE AVERAGE
+2025-10,TRYNGOLZA,1,29,22,75.9,29.0,,NORMAL / BELOW
+2026-03,TRYNGOLZA,1,33,32,97.0,31.0,4.0,ABOVE AVERAGE
+2026-04,TRYNGOLZA,1,28,20,71.4,30.0,-5.0,NORMAL / BELOW
+2026-12,TRYNGOLZA,1,37,27,73.0,32.7,9.0,ABOVE AVERAGE
+2026-08,TUBERCULOSIS ELIMINATOR,3,58,47,81.0,58.0,,NORMAL / BELOW
+2025-03,TYLENOL Cold Plus Mucus Severe,1,34,28,82.4,34.0,,ABOVE AVERAGE
+2027-01,TYLENOL Cold Plus Mucus Severe,1,13,10,76.9,23.5,-21.0,NORMAL / BELOW
+2026-02,Target Jock Itch,1,7,5,71.4,7.0,,ABOVE AVERAGE
+2027-01,Target Jock Itch,1,6,5,83.3,6.5,-1.0,NORMAL / BELOW
+2025-05,Target Up and Up SPF 50 Mineral Zinc Oxide Sunscreen,1,6,4,66.7,6.0,,NORMAL / BELOW
+2026-11,Target Up and Up SPF 50 Mineral Zinc Oxide Sunscreen,1,21,18,85.7,13.5,15.0,ABOVE AVERAGE
+2025-03,Target Up and Up Salicylic Acid Acne Wash,1,15,13,86.7,15.0,,NORMAL / BELOW
+2025-09,Target Up and Up Salicylic Acid Acne Wash,1,17,14,82.4,16.0,2.0,NORMAL / BELOW
+2026-08,Target Up and Up Salicylic Acid Acne Wash,1,25,24,96.0,19.0,8.0,ABOVE AVERAGE
+2026-07,Temazepam,1,16,13,81.3,16.0,,NORMAL / BELOW
+2026-09,Terbinafine Hydrochloride,1,10,10,100.0,10.0,,NORMAL / BELOW
+2025-11,Terbutaline Sulfate,1,11,10,90.9,11.0,,NORMAL / BELOW
+2025-12,Testosterone,1,7,7,100.0,7.0,,ABOVE AVERAGE
+2026-10,Testosterone,1,5,5,100.0,6.0,-2.0,NORMAL / BELOW
+2026-12,Testosterone,1,6,5,83.3,6.0,1.0,ABOVE AVERAGE
+2027-02,Testosterone,1,5,5,100.0,5.3,-1.0,NORMAL / BELOW
+2027-02,The Green Scissor,1,16,16,100.0,16.0,,NORMAL / BELOW
+2025-07,Theraflu Severe Congestion Relief Cooling Nasal Mist,1,5,5,100.0,5.0,,ABOVE AVERAGE
+2025-09,Theraflu Severe Congestion Relief Cooling Nasal Mist,1,5,4,80.0,5.0,0.0,ABOVE AVERAGE
+2025-11,Theraflu Severe Congestion Relief Cooling Nasal Mist,1,5,3,60.0,5.0,0.0,ABOVE AVERAGE
+2026-02,Theraflu Severe Congestion Relief Cooling Nasal Mist,1,4,4,100.0,4.7,-1.0,NORMAL / BELOW
+2026-08,Theraflu Severe Congestion Relief Cooling Nasal Mist,1,1,1,100.0,3.3,-3.0,NORMAL / BELOW
+2026-09,Ticagrelor,1,9,6,66.7,9.0,,NORMAL / BELOW
+2025-07,Tinted Replenishing Daily Protection,1,21,15,71.4,21.0,,NORMAL / BELOW
+2025-07,Tiopronin,1,7,4,57.1,7.0,,NORMAL / BELOW
+2026-04,Tiopronin,1,12,9,75.0,9.5,5.0,NORMAL / BELOW
+2026-11,Tiopronin,1,19,17,89.5,12.7,7.0,ABOVE AVERAGE
+2026-04,Titanium Carbonatum,1,10,9,90.0,10.0,,ABOVE AVERAGE
+2026-06,Titanium Carbonatum,1,10,7,70.0,10.0,0.0,ABOVE AVERAGE
+2026-10,Titanium Carbonatum,1,9,6,66.7,9.7,-1.0,NORMAL / BELOW
+2025-05,"Tobacco, Leaf",1,10,10,100.0,10.0,,ABOVE AVERAGE
+2025-07,"Tobacco, Leaf",1,10,7,70.0,10.0,0.0,ABOVE AVERAGE
+2025-11,"Tobacco, Leaf",1,12,8,66.7,10.7,2.0,ABOVE AVERAGE
+2026-05,"Tobacco, Leaf",1,6,5,83.3,9.3,-6.0,NORMAL / BELOW
+2025-04,Topicale,1,24,23,95.8,24.0,,NORMAL / BELOW
+2025-10,Tranexamic Acid,1,6,6,100.0,6.0,,NORMAL / BELOW
+2026-01,Tranexamic Acid,1,8,7,87.5,7.0,2.0,ABOVE AVERAGE
+2026-06,Tranexamic Acid,1,9,6,66.7,7.7,1.0,ABOVE AVERAGE
+2025-03,Trazodone Hydrochloride,1,4,3,75.0,4.0,,NORMAL / BELOW
+2026-08,Trazodone Hydrochloride,1,18,14,77.8,11.0,14.0,NORMAL / BELOW
+2026-10,Trazodone Hydrochloride,2,33,24,72.7,18.3,15.0,ABOVE AVERAGE
+2025-04,Tri-Lo-Mili,1,10,8,80.0,10.0,,NORMAL / BELOW
+2026-07,Tri-Lo-Mili,1,13,13,100.0,11.5,3.0,ABOVE AVERAGE
+2026-02,Triamcinolone Acetonide,1,28,20,71.4,28.0,,NORMAL / BELOW
+2026-06,Triamcinolone Acetonide,1,11,11,100.0,11.0,,ABOVE AVERAGE
+2027-01,Triamcinolone Acetonide,1,10,7,70.0,10.5,-1.0,NORMAL / BELOW
+2026-02,Tryptophan,1,15,14,93.3,15.0,,ABOVE AVERAGE
+2026-04,Tryptophan,1,10,7,70.0,12.5,-5.0,NORMAL / BELOW
+2025-05,Tusnel DM Pediatric,1,13,13,100.0,13.0,,NORMAL / BELOW
+2025-10,Tusnel DM Pediatric,1,12,11,91.7,12.5,-1.0,NORMAL / BELOW
+2026-02,Tusnel DM Pediatric,1,18,16,88.9,14.3,6.0,ABOVE AVERAGE
+2026-03,Tusnel DM Pediatric,1,14,10,71.4,14.7,-4.0,NORMAL / BELOW
+2025-09,Ulensy Corn Callus and Wart Remover,1,7,6,85.7,7.0,,NORMAL / BELOW
+2026-01,Ulensy Corn Callus and Wart Remover,1,9,7,77.8,8.0,2.0,ABOVE AVERAGE
+2026-01,Up and Up Nighttime Sleep Aid,1,8,8,100.0,8.0,,NORMAL / BELOW
+2026-11,Up and Up Nighttime Sleep Aid,1,10,9,90.0,9.0,2.0,ABOVE AVERAGE
+2025-11,VAGISIL Anti-Itch Medicated Creme Maximum Strength,1,15,13,86.7,15.0,,ABOVE AVERAGE
+2027-03,VAGISIL Anti-Itch Medicated Creme Maximum Strength,1,10,8,80.0,12.5,-5.0,NORMAL / BELOW
+2026-05,VARENICLINE TARTRATE,2,48,35,72.9,48.0,,NORMAL / BELOW
+2025-08,Valeriana Officinalis,1,13,13,100.0,13.0,,ABOVE AVERAGE
+2026-02,Valeriana Officinalis,1,10,9,90.0,11.5,-3.0,NORMAL / BELOW
+2025-08,Valsartan,1,8,6,75.0,8.0,,NORMAL / BELOW
+2026-04,Valsartan,1,8,8,100.0,8.0,0.0,NORMAL / BELOW
+2026-03,Varenicline,1,17,11,64.7,17.0,,NORMAL / BELOW
+2026-03,Venlafaxine Hydrochloride,1,18,12,66.7,18.0,,NORMAL / BELOW
+2026-06,Vexia Maximum Strength Urinary Pain Relief,1,30,28,93.3,30.0,,NORMAL / BELOW
+2025-05,Vicks DayQuil INTENSE FLU,1,14,14,100.0,14.0,,NORMAL / BELOW
+2025-11,Vicks DayQuil INTENSE FLU,1,14,10,71.4,14.0,0.0,NORMAL / BELOW
+2026-03,Vicks DayQuil INTENSE FLU,1,18,17,94.4,15.3,4.0,ABOVE AVERAGE
+2026-06,Vicks DayQuil INTENSE FLU,1,17,11,64.7,16.3,-1.0,ABOVE AVERAGE
+2026-08,Vicks DayQuil INTENSE FLU,1,13,13,100.0,16.0,-4.0,NORMAL / BELOW
+2025-06,Vicks DayQuil and Vicks NyQuil INTENSE FLU,1,18,16,88.9,18.0,,NORMAL / BELOW
+2026-02,Vicks DayQuil and Vicks NyQuil INTENSE FLU,1,21,20,95.2,19.5,3.0,ABOVE AVERAGE
+2025-11,ViraClear EPs 7630 Cherry Flavor,1,3,2,66.7,3.0,,NORMAL / BELOW
+2026-02,ViraClear EPs 7630 Cherry Flavor,1,4,2,50.0,3.5,1.0,NORMAL / BELOW
+2026-03,ViraClear EPs 7630 Cherry Flavor,1,5,4,80.0,4.0,1.0,ABOVE AVERAGE
+2025-11,Walgreens Double Restorative Moisturizer Broad Spectrum SPF 30 Sunscreen,1,10,10,100.0,10.0,,NORMAL / BELOW
+2026-05,Walgreens Double Restorative Moisturizer Broad Spectrum SPF 30 Sunscreen,1,12,10,83.3,11.0,2.0,ABOVE AVERAGE
+2025-03,Walgreens Lubricant,1,21,15,71.4,21.0,,NORMAL / BELOW
+2026-01,Warfarin Sodium,1,4,4,100.0,4.0,,NORMAL / BELOW
+2026-03,Warfarin Sodium,1,23,21,91.3,23.0,,NORMAL / BELOW
+2026-05,WartStick,1,24,22,91.7,24.0,,NORMAL / BELOW
+2026-11,WartStick,1,24,18,75.0,24.0,0.0,NORMAL / BELOW
+2025-04,Watermelon Flavor Sodium Fluoride Anticavity Toothpast,1,5,3,60.0,5.0,,NORMAL / BELOW
+2025-06,Watermelon Flavor Sodium Fluoride Anticavity Toothpast,1,4,3,75.0,4.5,-1.0,NORMAL / BELOW
+2025-07,Watermelon Flavor Sodium Fluoride Anticavity Toothpast,1,5,4,80.0,4.7,1.0,NORMAL / BELOW
+2026-11,Watermelon Flavor Sodium Fluoride Anticavity Toothpast,1,17,14,82.4,8.7,12.0,ABOVE AVERAGE
+2025-04,XULANE,1,11,10,90.9,11.0,,NORMAL / BELOW
+2027-01,XULANE,1,17,13,76.5,14.0,6.0,ABOVE AVERAGE
+2025-12,YVTYVT COPPER PEPTIDES FACIAL SERUM,1,4,2,50.0,4.0,,NORMAL / BELOW
+2026-05,YVTYVT COPPER PEPTIDES FACIAL SERUM,1,11,8,72.7,7.5,7.0,ABOVE AVERAGE
+2026-11,YVTYVT COPPER PEPTIDES FACIAL SERUM,1,11,11,100.0,8.7,0.0,ABOVE AVERAGE
+2026-12,YVTYVT COPPER PEPTIDES FACIAL SERUM,1,10,9,90.0,10.7,-1.0,ABOVE AVERAGE
+2027-01,YVTYVT COPPER PEPTIDES FACIAL SERUM,1,12,8,66.7,11.0,2.0,ABOVE AVERAGE
+2025-03,Zonisamide,1,30,28,93.3,30.0,,ABOVE AVERAGE
+2025-10,Zonisamide,1,36,29,80.6,33.0,6.0,ABOVE AVERAGE
+2026-01,Zonisamide,1,29,26,89.7,31.7,-7.0,NORMAL / BELOW
+2026-04,Zonisamide,1,26,18,69.2,30.3,-3.0,NORMAL / BELOW
+2027-02,Zonisamide,1,26,18,69.2,27.0,0.0,NORMAL / BELOW
+2026-01,Zubsolv,1,8,8,100.0,8.0,,ABOVE AVERAGE
+2026-03,Zubsolv,1,8,7,87.5,8.0,0.0,ABOVE AVERAGE
+2026-04,Zubsolv,1,5,3,60.0,7.0,-3.0,NORMAL / BELOW
+2027-01,Zubsolv,1,6,5,83.3,6.3,1.0,NORMAL / BELOW
+2026-11,ZzzQuil Nighttime Sleep-Aid,1,20,14,70.0,20.0,,NORMAL / BELOW
+2027-01,ZzzQuil Nighttime Sleep-Aid,1,25,20,80.0,22.5,5.0,ABOVE AVERAGE
+2025-03,anti dandruff SHAMPOOS,1,4,3,75.0,4.0,,NORMAL / BELOW
+2026-09,anti dandruff SHAMPOOS,2,26,21,80.8,15.0,22.0,ABOVE AVERAGE
+2025-06,aripiprazole,1,15,14,93.3,15.0,,ABOVE AVERAGE
+2025-10,aripiprazole,1,15,11,73.3,15.0,0.0,ABOVE AVERAGE
+2026-01,aripiprazole,1,12,12,100.0,14.0,-3.0,NORMAL / BELOW
+2026-04,aripiprazole,1,13,12,92.3,13.3,1.0,NORMAL / BELOW
+2026-09,aripiprazole,1,16,13,81.3,13.7,3.0,ABOVE AVERAGE
+2026-10,aripiprazole,1,13,13,100.0,14.0,-3.0,NORMAL / BELOW
+2025-12,azelaic acid,1,19,14,73.7,19.0,,NORMAL / BELOW
+2026-01,azelaic acid,2,37,32,86.5,28.0,18.0,ABOVE AVERAGE
+2026-07,azelaic acid,1,19,14,73.7,25.0,-18.0,NORMAL / BELOW
+2026-10,azelaic acid,1,15,15,100.0,23.7,-4.0,NORMAL / BELOW
+2026-03,azithromycin dihydrate,1,16,13,81.3,16.0,,ABOVE AVERAGE
+2026-07,azithromycin dihydrate,1,13,10,76.9,14.5,-3.0,NORMAL / BELOW
+2026-08,azithromycin dihydrate,1,12,9,75.0,13.7,-1.0,NORMAL / BELOW
+2025-09,bareMinerals BAREPRO 24HR Wear Skin-Perfecting Matte Liquid Foundation Fair 17 Neutral,1,22,15,68.2,22.0,,NORMAL / BELOW
+2026-01,bareMinerals BAREPRO 24HR Wear Skin-Perfecting Matte Liquid Foundation Fair 17 Neutral,1,23,16,69.6,22.5,1.0,ABOVE AVERAGE
+2025-06,bareMinerals BAREPRO 24HR Wear Skin-Perfecting Matte Liquid Foundation Light 21 Neutral,1,8,5,62.5,8.0,,NORMAL / BELOW
+2026-07,bareMinerals BAREPRO 24HR Wear Skin-Perfecting Matte Liquid Foundation Light 21 Neutral,1,11,10,90.9,9.5,3.0,ABOVE AVERAGE
+2026-05,basic care loperamide hydrochloride,1,5,5,100.0,5.0,,NORMAL / BELOW
+2026-06,basic care loperamide hydrochloride,1,5,3,60.0,5.0,0.0,NORMAL / BELOW
+2026-12,burn gel 01,1,10,8,80.0,10.0,,NORMAL / BELOW
+2026-03,daytime nighttime cold and flu,1,4,3,75.0,4.0,,NORMAL / BELOW
+2026-09,daytime nighttime cold and flu,1,4,2,50.0,4.0,0.0,NORMAL / BELOW
+2025-11,foundcealer multi-tasking foundation Broad Spectrum SPF 20 Sunscreen 44S tan sand,1,15,12,80.0,15.0,,NORMAL / BELOW
+2026-03,foundcealer multi-tasking foundation Broad Spectrum SPF 20 Sunscreen 44S tan sand,1,13,10,76.9,14.0,-2.0,NORMAL / BELOW
+2026-06,foundcealer multi-tasking foundation Broad Spectrum SPF 20 Sunscreen 44S tan sand,1,17,15,88.2,15.0,4.0,ABOVE AVERAGE
+2026-10,gemcitabine,1,19,14,73.7,19.0,,NORMAL / BELOW
+2026-02,iVIZIA Lubricant Eye Gel,1,38,38,100.0,38.0,,ABOVE AVERAGE
+2026-07,iVIZIA Lubricant Eye Gel,1,32,24,75.0,35.0,-6.0,ABOVE AVERAGE
+2026-08,iVIZIA Lubricant Eye Gel,1,32,27,84.4,34.0,0.0,ABOVE AVERAGE
+2026-09,iVIZIA Lubricant Eye Gel,1,25,17,68.0,29.7,-7.0,NORMAL / BELOW
+2026-09,ketoconazole,1,13,13,100.0,13.0,,ABOVE AVERAGE
+2026-11,ketoconazole,1,12,8,66.7,12.5,-1.0,NORMAL / BELOW
+2026-01,lip balm SPF15( CB400) 01,1,24,17,70.8,24.0,,NORMAL / BELOW
+2026-10,lip balm SPF15( CB400) 01,1,25,23,92.0,24.5,1.0,ABOVE AVERAGE
+2027-01,menthol cough drops,1,12,11,91.7,12.0,,NORMAL / BELOW
+2025-08,pain relief childrens,1,37,25,67.6,37.0,,ABOVE AVERAGE
+2025-09,pain relief childrens,1,32,29,90.6,34.5,-5.0,NORMAL / BELOW
+2026-01,pain relief childrens,1,29,27,93.1,32.7,-3.0,NORMAL / BELOW
+2026-05,pain relief childrens,1,38,33,86.8,33.0,9.0,ABOVE AVERAGE
+2025-06,parents choice infants ibuprofen,1,4,3,75.0,4.0,,NORMAL / BELOW
+2026-06,parents choice infants ibuprofen,1,10,7,70.0,7.0,6.0,ABOVE AVERAGE
+2026-09,parents choice infants ibuprofen,1,12,12,100.0,8.7,2.0,ABOVE AVERAGE
+2026-12,parents choice infants ibuprofen,1,13,10,76.9,11.7,1.0,ABOVE AVERAGE
+2026-02,propofol,1,12,8,66.7,12.0,,ABOVE AVERAGE
+2026-03,propofol,1,12,9,75.0,12.0,0.0,ABOVE AVERAGE
+2026-04,propofol,1,10,10,100.0,11.3,-2.0,NORMAL / BELOW
+2026-07,propofol,1,12,10,83.3,11.3,2.0,ABOVE AVERAGE
+2025-05,quitine nicotine,1,22,15,68.2,22.0,,ABOVE AVERAGE
+2026-11,quitine nicotine,1,19,14,73.7,20.5,-3.0,NORMAL / BELOW
+2026-12,quitine nicotine,1,19,18,94.7,20.0,0.0,NORMAL / BELOW
+2027-02,quitine nicotine,1,19,14,73.7,19.0,0.0,NORMAL / BELOW
+2026-01,signature care 12 hour cough relief,1,11,11,100.0,11.0,,NORMAL / BELOW
+2026-02,signature care 12 hour cough relief,1,17,11,64.7,14.0,6.0,ABOVE AVERAGE
+2025-04,sunscreen,1,6,5,83.3,6.0,,NORMAL / BELOW
+2026-04,sunscreen,1,20,17,85.0,13.0,14.0,ABOVE AVERAGE
+2026-11,sunscreen,1,14,11,78.6,13.3,-6.0,ABOVE AVERAGE
+2026-07,temozolomide,1,9,8,88.9,9.0,,NORMAL / BELOW
+2026-10,temozolomide,1,9,9,100.0,9.0,0.0,NORMAL / BELOW
+2027-02,topcare anti diarrheal,1,21,15,71.4,21.0,,NORMAL / BELOW
+2025-10,topiramate,1,4,4,100.0,4.0,,NORMAL / BELOW
+2026-01,vkavka Wart Remover,1,21,17,81.0,21.0,,ABOVE AVERAGE
+2026-03,vkavka Wart Remover,1,12,9,75.0,16.5,-9.0,NORMAL / BELOW
+2026-08,vkavka Wart Remover,1,11,8,72.7,14.7,-1.0,NORMAL / BELOW
+2025-06,ziprasidone,1,26,24,92.3,26.0,,NORMAL / BELOW

@@ -1,0 +1,4 @@
+operation_code,operation_date,department_name,equipment_name,quantity_reserved,quantity_allocated,unfulfilled_qty,action_required
+N-00146,2026-03-28,Neurosurgery Department,"Tube, Tympanostomy",2,1,1,PARTIAL - TOP UP REQUIRED
+N-00146,2026-03-28,Neurosurgery Department,Vibrator For Climax Control Of Premature Ejaculation,3,2,1,PARTIAL - TOP UP REQUIRED
+N-00146,2026-03-28,Neurosurgery Department,"Stimulator, Electro-Acupuncture",2,1,1,PARTIAL - TOP UP REQUIRED
